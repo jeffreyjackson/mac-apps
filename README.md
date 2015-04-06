@@ -19,6 +19,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
 ### Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 
+### iOS Apps - Coming SOON!
+Please visit this repo for awesome iOS open source apps: [ios-apps](https://github.com/AwesomeOpenSource/ios-apps)
+
 ## Contact
 
 - [github.com/jeffreyjackson](https://github.com/jeffreyjackson)
