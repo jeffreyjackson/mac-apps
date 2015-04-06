@@ -15,6 +15,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/mileswd/mac2imgur
 - macdown: Markdown editor
   - https://github.com/uranusjr/macdown
+  
+### Apple Sample Projects
+[Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 
 ## Contact
 
