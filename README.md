@@ -1,6 +1,6 @@
 # Open-Source Mac Apps
 
-List of open-source Mac apps.
+List of open-source Mac apps.  Managed by [Jeffrey Jackson](https://github.com/jeffreyjackson)
 
 Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/issues) or [pull requests](https://github.com/AwesomeOpenSource/mac-apps/pulls).
  
