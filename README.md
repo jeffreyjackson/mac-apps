@@ -7,6 +7,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
 :large_orange_diamond: Swift projects
  
 ### OS X
+- AnyBar: OS X menubar status indicator
+  - https://github.com/tonsky/AnyBar
 - Cakebrew: Manage your Homebrew formulas with style
   - https://github.com/brunophilipe/Cakebrew
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
