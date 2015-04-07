@@ -11,6 +11,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/soffes/clock-saver
 - Gifs: A Mac App for finding GIFs
   - https://github.com/orta/gifs
+- GoogleMusicMac: Wrapper for Google Music that is compatible with the Mac's media keys.
+  - https://github.com/JamesFator/GoogleMusicMac
 - mac2imgur: Upload screenshots to imgur :large_orange_diamond:
   - https://github.com/mileswd/mac2imgur
 - macdown: Markdown editor
