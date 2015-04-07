@@ -25,6 +25,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/uranusjr/macdown
 - PNGSquash: A PNG compressor app for Mac OS X
   - https://github.com/msanders/PNGSquash
+- Spectacle: Organize your windows without using a mouse
+  - https://github.com/eczarny/spectacle
 - tunnelblick: Graphic user interface for OpenVPN 
   - https://code.google.com/p/tunnelblick/
 
