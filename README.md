@@ -29,6 +29,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/uranusjr/macdown
 - PNGSquash: A PNG compressor app for Mac OS X
   - https://github.com/msanders/PNGSquash
+- Quicksilver: fast and free Mac OS X productivity application
+  - https://github.com/quicksilver/Quicksilver
 - Spectacle: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
 - TipTyper: Simple plain-text editor for OS X with multiple useful features
