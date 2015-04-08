@@ -17,6 +17,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/orta/gifs
 - GoogleMusicMac: Wrapper for Google Music that is compatible with the Mac's media keys.
   - https://github.com/JamesFator/GoogleMusicMac
+- ImageAlpha: Mac GUI for pngquant, pngnq and posterizer
+  - https://github.com/pornel/ImageAlpha
 - ImageOptim: GUI image optimizer for Mac
   - https://github.com/pornel/ImageOptim
 - mac2imgur: Upload screenshots to imgur :large_orange_diamond:
