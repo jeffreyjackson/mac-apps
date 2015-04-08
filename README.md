@@ -29,6 +29,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/msanders/PNGSquash
 - Spectacle: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
+- TipTyper: Simple plain-text editor for OS X with multiple useful features
+  - https://github.com/brunophilipe/TipTyper
 - tunnelblick: Graphic user interface for OpenVPN 
   - https://code.google.com/p/tunnelblick/
 
