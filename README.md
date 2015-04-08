@@ -19,6 +19,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/orta/gifs
 - GoogleMusicMac: Wrapper for Google Music that is compatible with the Mac's media keys.
   - https://github.com/JamesFator/GoogleMusicMac
+- Handbrake: Video/Audio encoder / decoder
+  - https://github.com/HandBrake/HandBrake
 - ImageAlpha: Mac GUI for pngquant, pngnq and posterizer
   - https://github.com/pornel/ImageAlpha
 - ImageOptim: GUI image optimizer for Mac
