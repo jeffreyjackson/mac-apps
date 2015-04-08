@@ -45,6 +45,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
 ### Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 
+### Apple Open Source
+[Apple Open Source](http://www.opensource.apple.com/)
+
 ## Contact
 
 - [github.com/jeffreyjackson](https://github.com/jeffreyjackson)
