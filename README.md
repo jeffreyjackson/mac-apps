@@ -17,6 +17,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/soffes/clock-saver
 - dshb: OS X system monitor in Swift :large_orange_diamond:
   - https://github.com/beltex/dshb
+- fb-mac-messenger: Mac wrapper for Facebook messenger
+  - https://github.com/rsms/fb-mac-messenger
 - Gifs: A Mac App for finding GIFs
   - https://github.com/orta/gifs
 - GoogleMusicMac: Wrapper for Google Music that is compatible with the Mac's media keys.
