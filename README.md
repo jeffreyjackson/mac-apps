@@ -39,6 +39,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/
   - https://github.com/brunophilipe/TipTyper
 - tunnelblick: Graphic user interface for OpenVPN 
   - https://code.google.com/p/tunnelblick/
+- Vienna: RSS/Atom Reader
+  - https://github.com/ViennaRSS/vienna-rss
 
 ### Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
