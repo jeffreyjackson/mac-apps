@@ -8,7 +8,7 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/iss
  
 ### OS X
 - Adium: Instant Messaging Client
- - https://github.com/adium/adium
+  - https://github.com/adium/adium
 - AnyBar: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
 - Cakebrew: Manage your Homebrew formulas with style
@@ -41,6 +41,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/iss
   - https://github.com/eczarny/spectacle
 - TipTyper: Simple plain-text editor for OS X with multiple useful features
   - https://github.com/brunophilipe/TipTyper
+- ToDoOSX: OS X app using Parse and managing Todos
+  - https://github.com/ParsePlatform/TodoOSX
 - tunnelblick: Graphic user interface for OpenVPN 
   - https://code.google.com/p/tunnelblick/
 - Vienna: RSS/Atom Reader
