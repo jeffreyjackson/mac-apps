@@ -2,7 +2,7 @@
 
 List of open-source Mac apps.  Managed by [Jeffrey Jackson](https://github.com/jeffreyjackson)
 
-Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/mac-apps/issues) or [pull requests](https://github.com/AwesomeOpenSource/mac-apps/pulls).
+Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/issues) or [pull requests](https://github.com/jeffreyjackson/mac-apps/pulls).
  
 :large_orange_diamond: Swift projects
  
