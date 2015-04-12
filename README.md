@@ -15,6 +15,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/iss
   - https://github.com/brunophilipe/Cakebrew
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
+- CoinManager: OS X app for Coinbase
+  - https://github.com/D-32/CoinManager
 - dshb: OS X system monitor in Swift :large_orange_diamond:
   - https://github.com/beltex/dshb
 - fb-mac-messenger: Mac wrapper for Facebook messenger
