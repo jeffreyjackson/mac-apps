@@ -5,6 +5,10 @@ List of open-source Mac apps.  Managed by [Jeffrey Jackson](https://github.com/j
 Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/issues) or [pull requests](https://github.com/jeffreyjackson/mac-apps/pulls).
  
 :large_orange_diamond: Swift projects
+
+### OS X Frameworks
+
+Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
  
 ### OS X
 - Adium: Instant Messaging Client
