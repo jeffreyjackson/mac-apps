@@ -47,6 +47,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/msanders/PNGSquash
 - Quicksilver: fast and free Mac OS X productivity application
   - https://github.com/quicksilver/Quicksilver
+- Rem: Command-line tool to access OSX Reminders.app database
+  - https://github.com/kykim/rem
 - Spectacle: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
 - TipTyper: Simple plain-text editor for OS X with multiple useful features
