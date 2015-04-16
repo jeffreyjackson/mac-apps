@@ -15,6 +15,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/adium/adium
 - AnyBar: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
+- Bitpost: OSX app for Bitmessage
+  - https://github.com/Voluntarynet/Bitpost
 - Cakebrew: Manage your Homebrew formulas with style
   - https://github.com/brunophilipe/Cakebrew
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
