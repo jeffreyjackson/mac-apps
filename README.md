@@ -41,6 +41,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/pornel/ImageAlpha
 - ImageOptim: GUI image optimizer for Mac
   - https://github.com/pornel/ImageOptim
+- iro: Color picker menu bar app for Mac OSX 10.9+
+  - https://github.com/ripeworks/iro
 - mac2imgur: Upload screenshots to imgur :large_orange_diamond:
   - https://github.com/mileswd/mac2imgur
 - macdown: Markdown editor
