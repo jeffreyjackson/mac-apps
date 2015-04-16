@@ -59,6 +59,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/ParsePlatform/TodoOSX
 - tunnelblick: Graphic user interface for OpenVPN 
   - https://code.google.com/p/tunnelblick/
+- VideoMessageExporter: OSX app to export Skype video messages
+  - https://github.com/alvarop/VideoMessageExporter
 - Vienna: RSS/Atom Reader
   - https://github.com/ViennaRSS/vienna-rss
 
