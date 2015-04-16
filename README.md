@@ -15,6 +15,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/adium/adium
 - AnyBar: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
+- Awake: An app for mac osx to prevent sleeping; inspired by Caffeine.
+  - https://github.com/xiaozi/Awake.app
 - Bitpost: OSX app for Bitmessage
   - https://github.com/Voluntarynet/Bitpost
 - Cakebrew: Manage your Homebrew formulas with style
