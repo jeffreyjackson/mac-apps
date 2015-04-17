@@ -57,6 +57,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/kykim/rem
 - Spectacle: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
+- stockfish-mac: Beautiful, powerful chess app for the Mac
+  - https://github.com/daylen/stockfish-mac
 - TipTyper: Simple plain-text editor for OS X with multiple useful features
   - https://github.com/brunophilipe/TipTyper
 - ToDoOSX: OS X app using Parse and managing Todos
