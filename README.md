@@ -23,6 +23,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/brunophilipe/Cakebrew
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
+- Cocoapods App: A full-featured and standalone installation of CocoaPods
+  - https://github.com/CocoaPods/CocoaPods-app
 - CoinManager: OS X app for Coinbase
   - https://github.com/D-32/CoinManager
 - dshb: OS X system monitor in Swift :large_orange_diamond:
