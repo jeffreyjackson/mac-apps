@@ -47,6 +47,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mileswd/mac2imgur
 - macdown: Markdown editor
   - https://github.com/uranusjr/macdown
+- MactsAsBeacon: A tiny app to turn a Bluetooth LE-equipped Mac into an iBeacon
+  - https://github.com/timd/MactsAsBeacon
 - mirrorapp: Mirror Enterprise iOS and OSX App
   - https://github.com/psutlt/mirrorapp
 - PNGSquash: A PNG compressor app for Mac OS X
