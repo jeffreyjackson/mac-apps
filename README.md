@@ -38,7 +38,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - Handbrake: Video/Audio encoder / decoder
   - https://github.com/HandBrake/HandBrake
 - Helium: A floating browser window for OS X
-  -https://github.com/JadenGeller/Helium
+  - https://github.com/JadenGeller/Helium
 - ImageAlpha: Mac GUI for pngquant, pngnq and posterizer
   - https://github.com/pornel/ImageAlpha
 - ImageOptim: GUI image optimizer for Mac
