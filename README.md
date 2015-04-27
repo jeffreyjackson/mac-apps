@@ -73,6 +73,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/alvarop/VideoMessageExporter
 - Vienna: RSS/Atom Reader
   - https://github.com/ViennaRSS/vienna-rss
+- WWDC: WWDC app for OS X :large_orange_diamond:
+  - https://github.com/insidegui/WWDC
 
 ### Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
