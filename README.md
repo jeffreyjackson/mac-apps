@@ -25,8 +25,12 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/soffes/clock-saver
 - Cocoapods App: A full-featured and standalone installation of CocoaPods
   - https://github.com/CocoaPods/CocoaPods-app
+- CocoaRestClient: A free, native Apple OS X app for testing HTTP/REST endpoints
+  - https://github.com/mmattozzi/cocoa-rest-client 
 - CoinManager: OS X app for Coinbase
   - https://github.com/D-32/CoinManager
+- Color Picker Pro: Color Detection Tool for Designers and Developers
+  - https://github.com/oscardelben/Color-Picker-Pro 
 - dshb: OS X system monitor in Swift :large_orange_diamond:
   - https://github.com/beltex/dshb
 - fb-mac-messenger: Mac wrapper for Facebook messenger
