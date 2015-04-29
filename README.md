@@ -23,6 +23,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/brunophilipe/Cakebrew
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
+- Cloudy: mac app wrapper for overcast :large_orange_diamond:
+  - https://github.com/calebd/cloudy 
 - Cocoapods App: A full-featured and standalone installation of CocoaPods
   - https://github.com/CocoaPods/CocoaPods-app
 - CocoaRestClient: A free, native Apple OS X app for testing HTTP/REST endpoints
