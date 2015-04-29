@@ -37,6 +37,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/beltex/dshb
 - fb-mac-messenger: Mac wrapper for Facebook messenger
   - https://github.com/rsms/fb-mac-messenger
+- Freecell: Solitaire type card game for OS X
+  - https://github.com/alisdair/freecell
 - Gifs: A Mac App for finding GIFs
   - https://github.com/orta/gifs
 - GoogleMusicMac: Wrapper for Google Music that is compatible with the Mac's media keys.
