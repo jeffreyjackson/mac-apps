@@ -61,6 +61,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/timd/MactsAsBeacon
 - mirrorapp: Mirror Enterprise iOS and OSX App
   - https://github.com/psutlt/mirrorapp
+- my41cx: Microcode emulator for HP-41 C/CV/CX (OS X & iOS)
+  - https://github.com/mperovic/my41
 - PNGSquash: A PNG compressor app for Mac OS X
   - https://github.com/msanders/PNGSquash
 - Quicksilver: fast and free Mac OS X productivity application
