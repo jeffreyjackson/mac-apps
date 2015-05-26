@@ -71,6 +71,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/quicksilver/Quicksilver
 - Rem: Command-line tool to access OSX Reminders.app database
   - https://github.com/kykim/rem
+- Standalone Mac OS X browser for SoundCloud
+  - https://github.com/salomvary/soundcleod
 - Spectacle: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
 - stockfish-mac: Beautiful, powerful chess app for the Mac
