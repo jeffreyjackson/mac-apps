@@ -63,6 +63,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/psutlt/mirrorapp
 - my41cx: Microcode emulator for HP-41 C/CV/CX (OS X & iOS)
   - https://github.com/mperovic/my41
+- MultiMarkdown version (with HTML source tab) of Notational Velocity
+  - https://github.com/ttscoff/nv
 - PNGSquash: A PNG compressor app for Mac OS X
   - https://github.com/msanders/PNGSquash
 - Quicksilver: fast and free Mac OS X productivity application
