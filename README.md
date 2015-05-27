@@ -89,6 +89,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/alvarop/VideoMessageExporter
 - Vienna: RSS/Atom Reader
   - https://github.com/ViennaRSS/vienna-rss
+- WhatsMac: A native Mac app wrapper for WhatsApp Web
+  - https://github.com/stonesam92/WhatsMac
 - WWDC: WWDC app for OS X :large_orange_diamond:
   - https://github.com/insidegui/WWDC
 
