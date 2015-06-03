@@ -10,7 +10,7 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/iss
 
 Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
  
-### OS X
+### OS X Apps
 - Adium: Instant Messaging Client
   - https://github.com/adium/adium
 - AnyBar: OS X menubar status indicator
