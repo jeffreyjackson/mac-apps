@@ -71,6 +71,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/quicksilver/Quicksilver
 - Rem: Command-line tool to access OSX Reminders.app database
   - https://github.com/kykim/rem
+- Resign: OSX utility to resign the IPA files
+  - https://github.com/LigeiaRowena/Resign
 - Screentendo: Turn your screen into a playable level of Mario
   - https://github.com/AaronRandall/Screentendo
 - Standalone Mac OS X browser for SoundCloud
