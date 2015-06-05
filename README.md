@@ -15,6 +15,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/adium/adium
 - AnyBar: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
+- App Reviews: App Reviews help you keep track of user reviews for your iPhone Apps. :large_orange_diamond:
+  - https://github.com/knutigro/AppReviews
 - Awake: An app for mac osx to prevent sleeping; inspired by Caffeine.
   - https://github.com/xiaozi/Awake.app
 - Bitpost: OSX app for Bitmessage
