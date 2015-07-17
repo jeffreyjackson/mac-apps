@@ -23,6 +23,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/Voluntarynet/Bitpost
 - Cakebrew: Manage your Homebrew formulas with style
   - https://github.com/brunophilipe/Cakebrew
+- Catch: Broadcasting made easy.
+  - https://github.com/mipstian/catch
 - Clock-Saver: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
 - Cloudy: mac app wrapper for overcast :large_orange_diamond:
@@ -93,6 +95,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/alvarop/VideoMessageExporter
 - Vienna: RSS/Atom Reader
   - https://github.com/ViennaRSS/vienna-rss
+- VisualJSON: JSON pretty-viewer for OS X.
+  - https://github.com/youknowone/VisualJSON
 - WhatsMac: A native Mac app wrapper for WhatsApp Web
   - https://github.com/stonesam92/WhatsMac
 - WWDC: WWDC app for OS X :large_orange_diamond:
