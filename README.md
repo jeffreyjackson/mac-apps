@@ -74,6 +74,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/kykim/rem
 - **Resign**: OSX utility to resign the IPA files
   - https://github.com/LigeiaRowena/Resign
+- **Unused** - A Mac app for checking Xcode projects for unused resources
+  - https://github.com/jeffhodnett/Unused
 - **VisualJSON**: JSON pretty-viewer for OS X.
   - https://github.com/youknowone/VisualJSON
 
