@@ -6,13 +6,13 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/iss
 
 :large_orange_diamond: Swift projects
 
-### OS X Frameworks
+## OS X Frameworks
 
 Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
 
-### OS X Apps
+## OS X Apps
 
-#### Communication
+### Communication
 - **Adium**: Instant Messaging Client
   - https://github.com/adium/adium
 - **Bitpost**: OSX app for Bitmessage
@@ -24,7 +24,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - **WhatsMac**: A native Mac app wrapper for WhatsApp Web
   - https://github.com/stonesam92/WhatsMac
 
-#### Editors
+### Editors
 - **Atom**: The hackable text editor
   - https://github.com/atom/atom
 - **macdown**: Markdown editor
@@ -34,7 +34,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - MultiMarkdown version (with HTML source tab) of Notational Velocity
   - https://github.com/ttscoff/nv
 
-#### Games
+### Games
 - **Freecell**: Solitaire type card game for OS X
   - https://github.com/alisdair/freecell
 - **Screentendo**: Turn your screen into a playable level of Mario
@@ -42,7 +42,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - **stockfish-mac**: Beautiful, powerful chess app for the Mac
   - https://github.com/daylen/stockfish-mac
 
-#### Mac Exclusives
+### Mac Exclusives
 - **AnyBar**: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
 - **Awake**: An app for mac osx to prevent sleeping; inspired by Caffeine.
@@ -61,7 +61,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/eczarny/spectacle
 
 
-#### For Developers
+### For Developers
 - **App Reviews**: App Reviews help you keep track of user reviews for your iPhone Apps. :large_orange_diamond:
   - https://github.com/knutigro/AppReviews
 - **Cakebrew**: Manage your Homebrew formulas with style
@@ -77,7 +77,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - **VisualJSON**: JSON pretty-viewer for OS X.
   - https://github.com/youknowone/VisualJSON
 
-#### Tools
+### Tools
 - **Color Picker Pro**: Color Detection Tool for Designers and Developers
   - https://github.com/oscardelben/Color-Picker-Pro
 - **Gifs**: A Mac App for finding GIFs
@@ -99,7 +99,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - **VideoMessageExporter**: OSX app to export Skype video messages
   - https://github.com/alvarop/VideoMessageExporter
 
-#### OS X versions, GUIs and other Wrappers
+### OS X versions, GUIs and other Wrappers
 - **Cloudy**: mac app wrapper for overcast :large_orange_diamond:
   - https://github.com/calebd/cloudy
 - **CoinManager**: OS X app for Coinbase
@@ -113,7 +113,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - **tunnelblick**: Graphic user interface for OpenVPN
   - https://code.google.com/p/tunnelblick/
 
-#### Productivity and Others
+### Productivity and Others
 - **Catch**: Broadcasting made easy.
   - https://github.com/mipstian/catch
 - **ToDoOSX**: OS X app using Parse and managing Todos
@@ -121,10 +121,10 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - **Vienna**: RSS/Atom Reader
   - https://github.com/ViennaRSS/vienna-rss
 
-### Apple Sample Projects
+## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 
-### Apple Open Source
+## Apple Open Source
 [Apple Open Source](http://www.opensource.apple.com/)
 
 ## Contact
