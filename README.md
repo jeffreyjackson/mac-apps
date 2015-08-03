@@ -19,10 +19,14 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/Voluntarynet/Bitpost
 - **fb-mac-messenger**: Mac wrapper for Facebook messenger
   - https://github.com/rsms/fb-mac-messenger
+- **Goofy**: OS X client for Facebook Messenger
+  - https://github.com/danielbuechele/goofy
 - **WhatsMac**: A native Mac app wrapper for WhatsApp Web
   - https://github.com/stonesam92/WhatsMac
 
 #### Editors
+- **Atom**: The hackable text editor
+  - https://github.com/atom/atom
 - **macdown**: Markdown editor
   - https://github.com/uranusjr/macdown
 - **TipTyper**: Simple plain-text editor for OS X with multiple useful features
