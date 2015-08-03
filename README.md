@@ -118,6 +118,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 ### Productivity and Others
 - **Catch**: Broadcasting made easy.
   - https://github.com/mipstian/catch
+- **Jekyll** Blog-aware, static site generator in Ruby
+  - https://github.com/jekyll/jekyll
 - **ToDoOSX**: OS X app using Parse and managing Todos
   - https://github.com/ParsePlatform/TodoOSX
 - **Vienna**: RSS/Atom Reader
