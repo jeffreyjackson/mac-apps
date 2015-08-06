@@ -128,6 +128,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/ViennaRSS/vienna-rss
 - **Wallpapers**: A Mac App for Downloading Wallpapers.
   - https://github.com/orta/Wallpapers
+
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 
