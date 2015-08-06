@@ -120,6 +120,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mipstian/catch
 - **Jekyll** Blog-aware, static site generator in Ruby
   - https://github.com/jekyll/jekyll
+- **Simple Comic** Comic Viewer
+  - https://github.com/arauchfuss/Simple-Comic
 - **ToDoOSX**: OS X app using Parse and managing Todos
   - https://github.com/ParsePlatform/TodoOSX
 - **Vienna**: RSS/Atom Reader
