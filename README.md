@@ -120,11 +120,14 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mipstian/catch
 - **Jekyll** Blog-aware, static site generator in Ruby
   - https://github.com/jekyll/jekyll
+- **Simple Comic** Comic Viewer
+  - https://github.com/arauchfuss/Simple-Comic
 - **ToDoOSX**: OS X app using Parse and managing Todos
   - https://github.com/ParsePlatform/TodoOSX
 - **Vienna**: RSS/Atom Reader
   - https://github.com/ViennaRSS/vienna-rss
-
+- **Wallpapers**: A Mac App for Downloading Wallpapers.
+  - https://github.com/orta/Wallpapers
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 
