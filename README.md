@@ -70,6 +70,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/CocoaPods/CocoaPods-app
 - **CocoaRestClient**: A free, native Apple OS X app for testing HTTP/REST endpoints
   - https://github.com/mmattozzi/cocoa-rest-client
+- **GitUp**: A simple but powerful Git OS X app.
+  - https://github.com/git-up/GitUp
 - **Rem**: Command-line tool to access OSX Reminders.app database
   - https://github.com/kykim/rem
 - **Resign**: OSX utility to resign the IPA files
