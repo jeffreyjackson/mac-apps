@@ -72,6 +72,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mmattozzi/cocoa-rest-client
 - **GitUp**: A simple but powerful Git OS X app.
   - https://github.com/git-up/GitUp
+- **Realm Browser**: An utility to open and modify realm database files.
+  - https://github.com/realm/realm-browser-osx
 - **Rem**: Command-line tool to access OSX Reminders.app database
   - https://github.com/kykim/rem
 - **Resign**: OSX utility to resign the IPA files
