@@ -143,5 +143,3 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 ## Contact
 
 - [github.com/jeffreyjackson](https://github.com/jeffreyjackson)
-
-
