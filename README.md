@@ -67,6 +67,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/knutigro/AppReviews
 - **Cakebrew**: Manage your Homebrew formulas with style
   - https://github.com/brunophilipe/Cakebrew
+- **CCMenu**: CCMenu is a Mac application to monitor continuous integration servers.
+  - https://github.com/erikdoe/ccmenu
 - **Cocoapods App**: A full-featured and standalone installation of CocoaPods
   - https://github.com/CocoaPods/CocoaPods-app
 - **CocoaRestClient**: A free, native Apple OS X app for testing HTTP/REST endpoints
