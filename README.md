@@ -127,6 +127,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mipstian/catch
 - **Jekyll** Blog-aware, static site generator in Ruby
   - https://github.com/jekyll/jekyll
+- **MacGesture** Global mouse gesture for Mac OS X
+  - https://github.com/CodeFalling/MacGesture
 - **Simple Comic** Comic Viewer
   - https://github.com/arauchfuss/Simple-Comic
 - **ToDoOSX**: OS X app using Parse and managing Todos
