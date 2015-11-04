@@ -22,7 +22,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 - **Goofy**: OS X client for Facebook Messenger
   - https://github.com/danielbuechele/goofy
 - **WhatsMac**: A native Mac app wrapper for WhatsApp Web
-  - https://github.com/stonesam92/WhatsMac
+  - https://github.com/stonesam92/ChitChat
 
 ### Editors
 - **Atom**: The hackable text editor
@@ -55,7 +55,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/JadenGeller/Helium
 - **mirrorapp**: Mirror Enterprise iOS and OSX App
   - https://github.com/psutlt/mirrorapp
-- **Octosaver**:  A Mac OS X Screensaver showing [Octocats](http://octodex.github.com)
+- **Octosaver**:  A Mac OS X Screensaver showing [Octocats](https://octodex.github.com/)
   - https://github.com/kimar/Octosaver
 - **Quicksilver**: fast and free Mac OS X productivity application
   - https://github.com/quicksilver/Quicksilver
