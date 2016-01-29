@@ -25,7 +25,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/stonesam92/ChitChat
 - **M**: Email client with device-to-device encryption for messages sent between M users
   - https://github.com/Mynigma/M
-  - 
+
 ### Editors
 - **Atom**: The hackable text editor
   - https://github.com/atom/atom
