@@ -65,6 +65,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/quicksilver/Quicksilver
 - **Spectacle**: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
+- **SelfControl**: A free Mac application to help you avoid distracting websites.
+    - https://github.com/SelfControlApp/selfcontrol
 
 ### For Developers
 - **App Reviews**: App Reviews help you keep track of user reviews for your iPhone Apps. :large_orange_diamond:
@@ -145,7 +147,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/wikimedia/wikipedia-ios
 - **Markoff**：A light-weight Markdown (CommonMark) previewer for OSX.
   - https://github.com/thoughtbot/Markoff
-  
+
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 
