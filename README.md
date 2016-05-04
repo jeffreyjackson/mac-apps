@@ -143,8 +143,6 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/ViennaRSS/vienna-rss
 - **Wallpapers**: A Mac App for Downloading Wallpapers.
   - https://github.com/orta/Wallpapers
-- **Wikipedia iOS**：The official Wikipedia iOS app.
-  - https://github.com/wikimedia/wikipedia-ios
 - **Markoff**：A light-weight Markdown (CommonMark) previewer for OSX.
   - https://github.com/thoughtbot/Markoff
 
