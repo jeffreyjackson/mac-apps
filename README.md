@@ -29,6 +29,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 ### Editors
 - **Atom**: The hackable text editor
   - https://github.com/atom/atom
+- **CotEditor**: Lightweight Plain-Text Editor for OS X
+    - https://github.com/coteditor/CotEditor
 - **macdown**: Markdown editor
   - https://github.com/uranusjr/macdown
 - **TipTyper**: Simple plain-text editor for OS X with multiple useful features
@@ -63,6 +65,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/quicksilver/Quicksilver
 - **Spectacle**: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
+- **SelfControl**: A free Mac application to help you avoid distracting websites.
+    - https://github.com/SelfControlApp/selfcontrol
 
 ### For Developers
 - **App Reviews**: App Reviews help you keep track of user reviews for your iPhone Apps. :large_orange_diamond:
@@ -139,6 +143,10 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/ViennaRSS/vienna-rss
 - **Wallpapers**: A Mac App for Downloading Wallpapers.
   - https://github.com/orta/Wallpapers
+- **Wikipedia iOS**：The official Wikipedia iOS app.
+  - https://github.com/wikimedia/wikipedia-ios
+- **Markoff**：A light-weight Markdown (CommonMark) previewer for OSX.
+  - https://github.com/thoughtbot/Markoff
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
