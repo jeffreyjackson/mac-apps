@@ -57,6 +57,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/beltex/dshb
 - **Helium**: A floating browser window for OS X
   - https://github.com/JadenGeller/Helium
+- **MenuMeters**: A is a set of CPU, memory, disk, and network monitoring tools for Mac OS X sitting in the menubar.
+  - https://www.ragingmenace.com/software/menumeters/
 - **mirrorapp**: Mirror Enterprise iOS and OSX App
   - https://github.com/psutlt/mirrorapp
 - **Octosaver**:  A Mac OS X Screensaver showing [Octocats](https://octodex.github.com/)
