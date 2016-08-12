@@ -29,7 +29,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 ### Editors
 - **Atom**: The hackable text editor
   - https://github.com/atom/atom
-- **CotEditor**: Lightweight Plain-Text Editor for OS X
+- **CotEditor**: Lightweight Plain-Text Editor for macOS :large_orange_diamond:
     - https://github.com/coteditor/CotEditor
 - **macdown**: Markdown editor
   - https://github.com/uranusjr/macdown
