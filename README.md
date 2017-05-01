@@ -47,6 +47,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/AaronRandall/Screentendo
 - **stockfish-mac**: Beautiful, powerful chess app for the Mac
   - https://github.com/daylen/stockfish-mac
+- **Open Emu**: Multiple video game system
+  - http://openemu.org/
 
 ### Mac Exclusives
 - **AnyBar**: OS X menubar status indicator
