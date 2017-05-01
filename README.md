@@ -93,6 +93,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/jeffhodnett/Unused
 - **VisualJSON**: JSON pretty-viewer for OS X.
   - https://github.com/youknowone/VisualJSON
+- **Touch Bar Simulator**: Use the Touch Bar on any Mac.
+  - https://github.com/sindresorhus/touch-bar-simulator
 
 ### Tools
 - **Color Picker Pro**: Color Detection Tool for Designers and Developers
