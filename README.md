@@ -35,9 +35,9 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/uranusjr/macdown
 - **TipTyper**: Simple plain-text editor for OS X with multiple useful features
   - https://github.com/brunophilipe/TipTyper
-- MultiMarkdown version (with HTML source tab) of Notational Velocity
+- **MultiMarkdown version (with HTML source tab) of Notational Velocity**
   - https://github.com/ttscoff/nv
-- Visual Studio Code - Code Editing. Redefined
+- **Visual Studio Code** - Code Editing. Redefined
   - https://github.com/Microsoft/vscode
 
 ### Games
