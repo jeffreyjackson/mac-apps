@@ -1,0 +1,12 @@
+desc "Add a new app"
+task :new do
+  %x[cp README.md .README.bac.md]
+  ruby "management.rb"
+end
+
+desc "Undo previous"
+task :undo do
+  %x[cp .README.bac.md README.md]
+end
+
+
