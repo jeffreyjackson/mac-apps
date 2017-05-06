@@ -17,6 +17,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/adium/adium
 - **Bitpost**: OS X app for Bitmessage
   - https://github.com/Voluntarynet/Bitpost
+- **Colloquy**: An IRC client for Mac OS X and iOS
+  - https://github.com/colloquy/colloquy
 - **fb-mac-messenger**: Mac wrapper for Facebook messenger
   - https://github.com/rsms/fb-mac-messenger
 - **Goofy**: OS X client for Facebook Messenger
@@ -121,11 +123,13 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/macports
 
 ### Tools
+- **Burn**: Burn data, audio, video, and disk images to various disc formats
+  - https://sourceforge.net/projects/burn-osx/
 - **Color Picker Pro**: Color Detection Tool for Designers and Developers
   - https://github.com/oscardelben/Color-Picker-Pro
 - **Gifs**: A Mac App for finding GIFs
   - https://github.com/orta/gifs
-- **Handbrake**: Video/Audio encoder / decoder
+- **HandBrake**: Cross-platform video/audio encoder/decoder
   - https://github.com/HandBrake/HandBrake
 - **ImageAlpha**: Mac GUI for pngquant, pngnq and posterizer
   - https://github.com/pornel/ImageAlpha
@@ -135,6 +139,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mileswd/mac2imgur
 - **MactsAsBeacon**: A tiny app to turn a Bluetooth LE-equipped Mac into an iBeacon
   - https://github.com/timd/MactsAsBeacon
+- **Monolingual**: Remove extra language localization files to free up hard disk space
+  - https://github.com/IngmarStein/Monolingual
 - **my41cx**: Microcode emulator for HP-41 C/CV/CX (OS X & iOS)
   - https://github.com/mperovic/my41
 - **PNGSquash**: A PNG compressor app for Mac OS X
@@ -157,12 +163,16 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/insidegui/WWDC
 
 ### Productivity and Others
+- **Audacity**: Cross-platform multi-track audio editor and recorder written in C, C++
+  - https://sourceforge.net/projects/audacity/
 - **BibDesk**: Bibliographic reference management software for macOS
   - https://sourceforge.net/projects/bibdesk/
 - **Cactus**: Static site generator for designers in Python and Django templates, with lightweight GUI app for macOS
   - https://github.com/eudicots/Cactus
 - **Catch**: Broadcasting made easy
   - https://github.com/mipstian/catch
+- **Clementine**: Cross-platorm music player and library organizer, written in C++, Qt
+  - https://github.com/clementine-player/Clementine
 - **Jekyll**: Blog-aware, static site generator in Ruby
   - https://github.com/jekyll/jekyll
 - **MacGesture**: Global mouse gesture for Mac OS X
