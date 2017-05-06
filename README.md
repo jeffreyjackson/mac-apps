@@ -21,10 +21,10 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/rsms/fb-mac-messenger
 - **Goofy**: OS X client for Facebook Messenger
   - https://github.com/danielbuechele/goofy
-- **WhatsMac**: A native Mac app wrapper for WhatsApp Web
-  - https://github.com/stonesam92/ChitChat
 - **M**: Email client with device-to-device encryption for messages sent between M users
   - https://github.com/Mynigma/M
+- **WhatsMac**: A native Mac app wrapper for WhatsApp Web
+  - https://github.com/stonesam92/ChitChat
 
 ### Text Editors
 - **Atom**: The hackable text editor
@@ -53,12 +53,12 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 ### Games
 - **Freecell**: Solitaire type card game for OS X
   - https://github.com/alisdair/freecell
+- **Open Emu**: Multiple video game system
+  - http://openemu.org/
 - **Screentendo**: Turn your screen into a playable level of Mario
   - https://github.com/AaronRandall/Screentendo
 - **stockfish-mac**: Beautiful, powerful chess app for the Mac
   - https://github.com/daylen/stockfish-mac
-- **Open Emu**: Multiple video game system
-  - http://openemu.org/
 
 ### Mac Interface Exclusives
 - **AnyBar**: OS X menubar status indicator
@@ -105,12 +105,12 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/kykim/rem
 - **Resign**: OSX utility to resign the IPA files
   - https://github.com/LigeiaRowena/Resign
+- **Touch Bar Simulator**: Use the Touch Bar on any Mac
+  - https://github.com/sindresorhus/touch-bar-simulator
 - **Unused** - A Mac app for checking Xcode projects for unused resources
   - https://github.com/jeffhodnett/Unused
 - **VisualJSON**: JSON pretty-viewer for OS X
   - https://github.com/youknowone/VisualJSON
-- **Touch Bar Simulator**: Use the Touch Bar on any Mac
-  - https://github.com/sindresorhus/touch-bar-simulator
 
 ### Darwin Package Managers
 - **Fink**: The fink package manager for macOS (in Perl)
@@ -151,10 +151,10 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/JamesFator/GoogleMusicMac
 - **Soundcleod**: Standalone Mac OS X browser for SoundCloud
   - https://github.com/salomvary/soundcleod
-- **WWDC**: WWDC app for OS X :large_orange_diamond:
-  - https://github.com/insidegui/WWDC
 - **tunnelblick**: Graphic user interface for OpenVPN
   - https://code.google.com/p/tunnelblick/
+- **WWDC**: WWDC app for OS X :large_orange_diamond:
+  - https://github.com/insidegui/WWDC
 
 ### Productivity and Others
 - **BibDesk**: Bibliographic reference management software for macOS
@@ -167,12 +167,16 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/jekyll/jekyll
 - **MacGesture**: Global mouse gesture for Mac OS X
   - https://github.com/CodeFalling/MacGesture
+- **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X
+  - https://github.com/thoughtbot/Markoff
 - **QGIS**: Cross-platform geographic information system (GIS) written in C++, Python, Qt
   - https://github.com/qgis/QGIS
 - **Seashore**: Image editor based on parts of GIMP but built entirely in Cocoa
   - https://sourceforge.net/projects/seashore/
 - **Simple Comic**: Comic viewer
   - https://github.com/arauchfuss/Simple-Comic
+- **Skim**: PDFKit-based PDF reader and annotation for macOS
+  - https://sourceforge.net/projects/skim-app/
 - **Stash**: Personal finance application for Mac OS X
   - http://github.com/ppearson/Stash
 - **ToDoOSX**: OS X app using Parse and managing to-dos
@@ -181,10 +185,6 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/ViennaRSS/vienna-rss
 - **Wallpapers**: A Mac app for downloading wallpapers
   - https://github.com/orta/Wallpapers
-- **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X
-  - https://github.com/thoughtbot/Markoff
-- **Skim**: PDFKit-based PDF reader and annotation for macOS
-  - https://sourceforge.net/projects/skim-app/
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
