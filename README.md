@@ -29,21 +29,27 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/stonesam92/ChitChat
 
 ### Text Editors
-- **Atom**: The hackable text editor
+- **Atom**: Cross-platform hackable text editor built in GitHub's Electron framework
   - https://github.com/atom/atom
-- **Brackets**: An open source code editor for the web, written in JavaScript, HTML and CSS
+- **Brackets**: Cross-platform code editor for the web, written in JavaScript, HTML and CSS
   - https://github.com/adobe/brackets
-- **CotEditor**: Lightweight Plain-Text Editor for macOS :large_orange_diamond:
+- **CotEditor**: Lightweight plain-text editor for macOS :large_orange_diamond:
   - https://github.com/coteditor/CotEditor
-- **LibreOffice**: Cross-platform office suite, written in C++, Java, and Python
+- **FocusWriter**: Cross-platform simple fullscreen word processor written in C++, Qt
+  - https://github.com/gottcode/focuswriter
+- **LibreOffice**: Cross-platform office suite written in C++, Java, and Python
   - https://cgit.freedesktop.org/libreoffice
 - **macdown**: Markdown editor
   - https://github.com/uranusjr/macdown
+- **Marp**: Markdown-based presentation creator built in GitHub's Electron framework
+  - https://github.com/yhatt/marp
 - **nvALT**: MultiMarkdown version (with HTML source tab) of Notational Velocity, mouseless Mac OS X note-taking app
   - https://github.com/ttscoff/nv
+- **TextMate**: A graphical text editor for OS X 10.9+
+  - https://github.com/textmate/textmate
 - **TipTyper**: Simple plain-text editor for OS X with multiple useful features
   - https://github.com/brunophilipe/TipTyper
-- **Visual Studio Code**: Code editing, redefined
+- **Visual Studio Code**: Cross-platform code editor built in GitHub's Electron framework
   - https://github.com/Microsoft/vscode
 
 ### Web Browsers
@@ -85,6 +91,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/eczarny/spectacle
 - **SelfControl**: A free Mac application to help you avoid distracting websites
   - https://github.com/SelfControlApp/selfcontrol
+- **Shady**: Menu bar app to dim Mac's screen
+  - https://github.com/mattgemmell/Shady
 - **tag**: A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags
   - https://github.com/jdberry/tag
 
@@ -125,12 +133,22 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 ### Tools
 - **Burn**: Burn data, audio, video, and disk images to various disc formats
   - https://sourceforge.net/projects/burn-osx/
+- **Calibre**: Cross-platform e-book manager and converter written in Python, C, C++, Qt
+  - https://github.com/kovidgoyal/calibre
 - **Color Picker Pro**: Color Detection Tool for Designers and Developers
   - https://github.com/oscardelben/Color-Picker-Pro
+- **Cyberduck**: Cross-platform browser for FTP/SFTP, WebDAV, and cloud storage written in Java and C#
+  - https://svn.cyberduck.io/trunk/
+- **FileZilla**: Cross-platform FTP/SFTP file management tool written in C++, wxWidgets
+  - https://sourceforge.net/projects/filezilla/
 - **Gifs**: A Mac App for finding GIFs
   - https://github.com/orta/gifs
+- **Grand Perspective**: Disk usage visualisation app for macOS
+  - https://sourceforge.net/projects/grandperspectiv/
 - **HandBrake**: Cross-platform video/audio encoder/decoder
   - https://github.com/HandBrake/HandBrake
+- **Hex Fiend**: A fast and clever hex editor for Mac OS X
+  - https://github.com/ridiculousfish/HexFiend
 - **ImageAlpha**: Mac GUI for pngquant, pngnq and posterizer
   - https://github.com/pornel/ImageAlpha
 - **iro**: Color picker menu bar app for Mac OSX 10.9+
@@ -145,10 +163,16 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mperovic/my41
 - **PNGSquash**: A PNG compressor app for Mac OS X
   - https://github.com/msanders/PNGSquash
+- **Sigil**: Cross-platform editing software for EPUB files (e-books) written in C++, Qt
+  - https://github.com/Sigil-Ebook/Sigil
+- **The Unarchiver**: An Objective-C application for uncompressing archive files
+  - https://bitbucket.org/WAHa_06x36/theunarchiver
 - **VideoMessageExporter**: OSX app to export Skype video messages
   - https://github.com/alvarop/VideoMessageExporter
+- **VLC**: Cross-platform media player and streaming media server written in C, C++, Qt, Objective-C
+  - https://wiki.videolan.org/OSXCompile/
 
-### OS X versions, GUIs and other Wrappers
+### OS X Versions, GUIs and Other Wrappers
 - **Cloudy**: mac app wrapper for overcast :large_orange_diamond:
   - https://github.com/calebd/cloudy
 - **CoinManager**: OS X app for Coinbase
@@ -171,8 +195,10 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/eudicots/Cactus
 - **Catch**: Broadcasting made easy
   - https://github.com/mipstian/catch
-- **Clementine**: Cross-platorm music player and library organizer, written in C++, Qt
+- **Clementine**: Cross-platorm music player and library organizer written in C++, Qt
   - https://github.com/clementine-player/Clementine
+- **GraphSketcher**: A fast, simple graph drawing and data plotting app for OS X and iPad from the Omni Group
+  - https://github.com/graphsketcher/GraphSketcher
 - **Jekyll**: Blog-aware, static site generator in Ruby
   - https://github.com/jekyll/jekyll
 - **MacGesture**: Global mouse gesture for Mac OS X
