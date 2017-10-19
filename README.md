@@ -27,6 +27,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/Mynigma/M
 - **WhatsMac**: A native Mac app wrapper for WhatsApp Web
   - https://github.com/stonesam92/ChitChat
+- **Caprine**: Elegant Facebook Messenger desktop app
+  - https://github.com/sindresorhus/caprine
 
 ### Text Editors
 - **Atom**: Cross-platform hackable text editor built in GitHub's Electron framework
