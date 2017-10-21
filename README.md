@@ -57,6 +57,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://hg.mozilla.org/mozilla-central/
 - **TenFourFox**: A fork of Firefox to maintain support for the Power Mac, supporting Mac OS X 10.4 and 10.5
   - https://github.com/classilla/tenfourfox
+- **TOR**: Protect your privacy. Defend yourself against network surveillance and traffic analysis.
+  - https://www.torproject.org/download/download-easy.html.en
 
 ### Games
 - **Freecell**: Solitaire type card game for OS X
