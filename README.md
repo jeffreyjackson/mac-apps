@@ -27,6 +27,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/Mynigma/M
 - **WhatsMac**: A native Mac app wrapper for WhatsApp Web
   - https://github.com/stonesam92/ChitChat
+- **LimeChat**: LimeChat is an IRC client for Mac OS X.
+  - https://github.com/psychs/limechat
 
 ### Text Editors
 - **Atom**: Cross-platform hackable text editor built in GitHub's Electron framework
