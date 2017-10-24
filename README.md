@@ -67,6 +67,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/AaronRandall/Screentendo
 - **stockfish-mac**: Beautiful, powerful chess app for the Mac
   - https://github.com/daylen/stockfish-mac
+- **GreenMahjong**: Solitaire mahjong game with several themes and layouts
+  - https://github.com/danbeck/green-mahjong
 
 ### Mac Interface Exclusives
 - **AnyBar**: OS X menubar status indicator
