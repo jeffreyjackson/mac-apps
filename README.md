@@ -87,6 +87,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/kimar/Octosaver
 - **Quicksilver**: Fast and free Mac OS X productivity application
   - https://github.com/quicksilver/Quicksilver
+- **SomaFM miniplayer**: Unofficial player that gives you minimal, background playback of SomaFM channels.
+  - https://github.com/ealeksandrov/SomaFM-miniplayer
 - **Spectacle**: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
 - **SelfControl**: A free Mac application to help you avoid distracting websites
