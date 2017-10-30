@@ -79,6 +79,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/beltex/dshb
 - **Helium**: A floating browser window for OS X :large_orange_diamond:
   - https://github.com/JadenGeller/Helium
+- **KeepingYouAwake**: Prevents your Mac from going to sleep
+  - https://github.com/newmarcel/KeepingYouAwake
 - **MenuMeters**: A is a set of CPU, memory, disk, and network monitoring tools for Mac OS X sitting in the menubar
   - https://github.com/yujitach/MenuMeters
 - **mirrorapp**: Mirror Enterprise iOS and OSX App
