@@ -71,15 +71,15 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 ### Mac Interface Exclusives
 - **AnyBar**: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
-- **Awake**: An app for mac osx to prevent sleeping; inspired by Caffeine.
+- **Awake**: An app for mac osx to prevent sleeping; inspired by Caffeine
   - https://github.com/xiaozi/Awake.app
 - **Clock-Saver**: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
 - **dshb**: OS X system monitor in Swift :large_orange_diamond:
   - https://github.com/beltex/dshb
-- **Helium**: A floating browser window for OS X
+- **Helium**: A floating browser window for OS X :large_orange_diamond:
   - https://github.com/JadenGeller/Helium
-- **MenuMeters**: A is a set of CPU, memory, disk, and network monitoring tools for Mac OS X sitting in the menubar.
+- **MenuMeters**: A is a set of CPU, memory, disk, and network monitoring tools for Mac OS X sitting in the menubar
   - https://github.com/yujitach/MenuMeters
 - **mirrorapp**: Mirror Enterprise iOS and OSX App
   - https://github.com/psutlt/mirrorapp
@@ -87,7 +87,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/kimar/Octosaver
 - **Quicksilver**: Fast and free Mac OS X productivity application
   - https://github.com/quicksilver/Quicksilver
-- **SomaFM miniplayer**: Unofficial player that gives you minimal, background playback of SomaFM channels.
+- **SomaFM miniplayer**: Unofficial player that gives you minimal, background playback of SomaFM channels :large_orange_diamond:
   - https://github.com/ealeksandrov/SomaFM-miniplayer
 - **Spectacle**: Organize your windows without using a mouse
   - https://github.com/eczarny/spectacle
@@ -99,7 +99,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/jdberry/tag
 
 ### For Developers
-- **App Reviews**: App Reviews help you keep track of user reviews for your iPhone Apps. :large_orange_diamond:
+- **App Reviews**: App Reviews help you keep track of user reviews for your iPhone Apps :large_orange_diamond:
   - https://github.com/knutigro/AppReviews
 - **Cakebrew**: Manage your Homebrew formulas with style
   - https://github.com/brunophilipe/Cakebrew
@@ -117,7 +117,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/kykim/rem
 - **Resign**: OSX utility to resign the IPA files
   - https://github.com/LigeiaRowena/Resign
-- **Touch Bar Simulator**: Use the Touch Bar on any Mac
+- **Touch Bar Simulator**: Use the Touch Bar on any Mac :large_orange_diamond:
   - https://github.com/sindresorhus/touch-bar-simulator
 - **Unused** - A Mac app for checking Xcode projects for unused resources
   - https://github.com/jeffhodnett/Unused
@@ -159,9 +159,9 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mileswd/mac2imgur
 - **MactsAsBeacon**: A tiny app to turn a Bluetooth LE-equipped Mac into an iBeacon
   - https://github.com/timd/MactsAsBeacon
-- **Monolingual**: Remove extra language localization files to free up hard disk space
+- **Monolingual**: Remove extra language localization files to free up hard disk space :large_orange_diamond:
   - https://github.com/IngmarStein/Monolingual
-- **my41cx**: Microcode emulator for HP-41 C/CV/CX (OS X & iOS)
+- **my41cx**: Microcode emulator for HP-41 C/CV/CX (OS X & iOS) :large_orange_diamond:
   - https://github.com/mperovic/my41
 - **PNGSquash**: A PNG compressor app for Mac OS X
   - https://github.com/msanders/PNGSquash
@@ -195,7 +195,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://sourceforge.net/projects/bibdesk/
 - **Cactus**: Static site generator for designers in Python and Django templates, with lightweight GUI app for macOS
   - https://github.com/eudicots/Cactus
-- **Catch**: Broadcasting made easy
+- **Catch**: Broadcasting made easy :large_orange_diamond:
   - https://github.com/mipstian/catch
 - **Clementine**: Cross-platorm music player and library organizer written in C++, Qt
   - https://github.com/clementine-player/Clementine
@@ -205,7 +205,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/jekyll/jekyll
 - **MacGesture**: Global mouse gesture for Mac OS X
   - https://github.com/CodeFalling/MacGesture
-- **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X
+- **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X :large_orange_diamond:
   - https://github.com/thoughtbot/Markoff
 - **QGIS**: Cross-platform geographic information system (GIS) written in C++, Python, Qt
   - https://github.com/qgis/QGIS
