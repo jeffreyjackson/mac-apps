@@ -54,7 +54,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
 
 ### Web Browsers
 - **Firefox**: Cross-platform web browser
-  - https://hg.mozilla.org/mozilla-central/
+  - https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=en-US
 - **TenFourFox**: A fork of Firefox to maintain support for the Power Mac, supporting Mac OS X 10.4 and 10.5
   - https://github.com/classilla/tenfourfox
 
