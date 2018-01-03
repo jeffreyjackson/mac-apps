@@ -175,6 +175,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/alvarop/VideoMessageExporter
 - **VLC**: Cross-platform media player and streaming media server written in C, C++, Qt, Objective-C
   - https://wiki.videolan.org/OSXCompile/
+- **Miro**: Miro can play any video format (much more than quicktime), download torrents, permanently save videos from YouTube, and watch video podcasts.
+  - https://github.com/pculture/mirocommunity
 
 ### OS X Versions, GUIs and Other Wrappers
 - **Cloudy**: mac app wrapper for overcast :large_orange_diamond:
