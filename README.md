@@ -27,6 +27,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/Mynigma/M
 - **WhatsMac**: A native Mac app wrapper for WhatsApp Web
   - https://github.com/stonesam92/ChitChat
+- **Caprine**: Elegant Facebook Messenger desktop app
+  - https://github.com/sindresorhus/caprine
 - **LimeChat**: LimeChat is an IRC client for Mac OS X.
   - https://github.com/psychs/limechat
 
