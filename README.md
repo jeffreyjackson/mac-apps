@@ -31,6 +31,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/sindresorhus/caprine
 - **LimeChat**: LimeChat is an IRC client for Mac OS X.
   - https://github.com/psychs/limechat
+- **Dejalu**: Fast and Simple Email Client.
+  - https://github.com/dinhviethoa/dejalu
 
 ### Text Editors
 - **Atom**: Cross-platform hackable text editor built in GitHub's Electron framework
