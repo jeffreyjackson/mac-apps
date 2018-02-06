@@ -121,6 +121,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/mmattozzi/cocoa-rest-client
 - **GitUp**: A simple but powerful Git OS X app
   - https://github.com/git-up/GitUp
+- **Pods Updater**: A macOS app which helps you manage dependency releases in your Podfile
+  - https://github.com/kizitonwose/PodsUpdater
 - **Realm Browser**: A utility to open and modify realm database files
   - https://github.com/realm/realm-browser-osx
 - **Rem**: Command-line tool to access OSX Reminders.app database
