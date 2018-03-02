@@ -217,6 +217,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/CodeFalling/MacGesture
 - **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X :large_orange_diamond:
   - https://github.com/thoughtbot/Markoff
+- **PDF Archiver**: A nice tool for tagging and archiving tasks :large_orange_diamond:
+  - https://github.com/JulianKahnert/PDF-Archiver
 - **QGIS**: Cross-platform geographic information system (GIS) written in C++, Python, Qt
   - https://github.com/qgis/QGIS
 - **Seashore**: Image editor based on parts of GIMP but built entirely in Cocoa
