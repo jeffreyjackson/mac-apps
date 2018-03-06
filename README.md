@@ -183,6 +183,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://wiki.videolan.org/OSXCompile/
 - **Miro**: Miro can play any video format (much more than quicktime), download torrents, permanently save videos from YouTube, and watch video podcasts.
   - https://github.com/pculture/mirocommunity
+- **Kap**: An open-source screen recorder built with web technology
+  - https://github.com/wulkano/kap
 
 ### OS X Versions, GUIs and Other Wrappers
 - **Cloudy**: mac app wrapper for overcast :large_orange_diamond:
