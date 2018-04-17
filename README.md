@@ -229,6 +229,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/arauchfuss/Simple-Comic
 - **Skim**: PDFKit-based PDF reader and annotation for macOS
   - https://sourceforge.net/projects/skim-app/
+- **SlowQuitApps**: Add a global delay to Command-Q to stop accidental app quits
+  - https://github.com/dteoh/SlowQuitApps
 - **Stash**: Personal finance application for Mac OS X
   - http://github.com/ppearson/Stash
 - **ToDoOSX**: OS X app using Parse and managing to-dos
