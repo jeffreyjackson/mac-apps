@@ -225,6 +225,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/JulianKahnert/PDF-Archiver
 - **QGIS**: Cross-platform geographic information system (GIS) written in C++, Python, Qt
   - https://github.com/qgis/QGIS
+- **Quickwords**: Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ✏️
+  - https://quickwords.co
 - **Seashore**: Image editor based on parts of GIMP but built entirely in Cocoa
   - https://sourceforge.net/projects/seashore/
 - **Simple Comic**: Comic viewer
