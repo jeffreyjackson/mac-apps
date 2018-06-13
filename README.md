@@ -207,6 +207,8 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://sourceforge.net/projects/bibdesk/
 - **Cactus**: Static site generator for designers in Python and Django templates, with lightweight GUI app for macOS
   - https://github.com/eudicots/Cactus
+- **Carol**: A minimal and beautiful lyrics app that stays in the menu bar of macOS, written in C#
+  - https://github.com/AnaghSharma/Carol
 - **Catch**: Broadcasting made easy :large_orange_diamond:
   - https://github.com/mipstian/catch
 - **Clementine**: Cross-platorm music player and library organizer written in C++, Qt
