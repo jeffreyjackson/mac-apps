@@ -45,7 +45,7 @@ Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://g
   - https://github.com/AaronRandall/Screentendo
 - **stockfish-mac**: Beautiful, powerful chess app for the Mac
   - https://github.com/daylen/stockfish-mac
-- **Snk**: Snake (with a twist) in Swift for Mac
+- **Snk**: Snake (with a twist) in Swift for Mac :large_orange_diamond:
   - https://github.com/sfsam/Snk
 
 ### Mac Exclusives
