@@ -6,7 +6,7 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/iss
 
 ## OS X Frameworks
 
-Visit this supporting repository here: [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
+Visit this supporting repository here: [mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
 
 ## OS X Apps
 
