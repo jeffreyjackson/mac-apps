@@ -75,7 +75,6 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/sfsam/Snk
 - **GreenMahjong**: Solitaire mahjong game with several themes and layouts
   - https://github.com/danbeck/green-mahjong
-  
 ### Mac Interface Exclusives
 - **AnyBar**: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
@@ -243,6 +242,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/ViennaRSS/vienna-rss
 - **Wallpapers**: A Mac app for downloading wallpapers
   - https://github.com/orta/Wallpapers
+- **Quick Symlink**: A Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click
+  - https://github.com/ololx/quick-symlink
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
