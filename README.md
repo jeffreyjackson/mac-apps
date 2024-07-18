@@ -244,6 +244,10 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
 - **Wallpapers**: A Mac app for downloading wallpapers
   - https://github.com/orta/Wallpapers
 
+### Menubar Apps
+- **MacMistral**: Your Conversational AI Companion Right in Your Mac's Menubar
+  - [https://github.com/peterdsp/macmistral](https://github.com/peterdsp/macmistral)
+
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 
