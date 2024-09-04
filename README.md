@@ -175,6 +175,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/IngmarStein/Monolingual
 - **my41cx**: Microcode emulator for HP-41 C/CV/CX (OS X & iOS) :large_orange_diamond:
   - https://github.com/mperovic/my41
+- **PlugNPlayMac**: A script to automate tasks when connect a device to your Mac
+  - https://github.com/Piero24/PlugNPlayMac
 - **Sigil**: Cross-platform editing software for EPUB files (e-books) written in C++, Qt
   - https://github.com/Sigil-Ebook/Sigil
 - **VideoMessageExporter**: OSX app to export Skype video messages
