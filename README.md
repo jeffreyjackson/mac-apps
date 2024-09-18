@@ -79,6 +79,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
 ### Mac Interface Exclusives
 - **AnyBar**: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
+- **app-menu**: The missing Applications Menu for macOS
+  - https://github.com/barseghyanartur/app-menu/
 - **Awake**: An app for mac osx to prevent sleeping; inspired by Caffeine
   - https://github.com/xiaozi/Awake.app
 - **Clock-Saver**: Simple clock screensaver :large_orange_diamond:
