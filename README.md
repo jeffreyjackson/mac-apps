@@ -251,6 +251,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
 ### Menubar Apps
 - **MacMistral**: Your Conversational AI Companion Right in Your Mac's Menubar
   - [https://github.com/peterdsp/macmistral](https://github.com/peterdsp/macmistral)
+- **Americano**: Simple caffeinate wrapper stay at menu bar
+  - [https://github.com/LZhenHong/Americano](https://github.com/LZhenHong/Americano)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
