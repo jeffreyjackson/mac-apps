@@ -137,6 +137,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/jeffhodnett/Unused
 - **VisualJSON**: JSON pretty-viewer for OS X
   - https://github.com/youknowone/VisualJSON
+- **Tempo**: Replace the Git CLI with a clear UI and AI assist :large_orange_diamond:
+  - https://github.com/maoyama/Tempo
 
 ### Darwin Package Managers
 - **Fink**: The fink package manager for macOS (in Perl)
