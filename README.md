@@ -189,6 +189,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/pculture/mirocommunity
 - **Kap**: An open-source screen recorder built with web technology
   - https://github.com/wulkano/kap
+- **Radiola**: Lightweight Internet radio player for macOS
+  - https://github.com/SokoloffA/radiola
 
 ### OS X Versions, GUIs and Other Wrappers
 - **Cloudy**: mac app wrapper for overcast :large_orange_diamond:
