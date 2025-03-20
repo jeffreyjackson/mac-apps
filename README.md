@@ -123,6 +123,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/mmattozzi/cocoa-rest-client
 - **GitUp**: A simple but powerful Git OS X app
   - https://github.com/git-up/GitUp
+- **Pasteboard Viewer**: An app to inspect your system pasteboard :large_orange_diamond:
+  - https://github.com/sindresorhus/Pasteboard-Viewer
 - **Pods Updater**: A macOS app which helps you manage dependency releases in your Podfile
   - https://github.com/kizitonwose/PodsUpdater
 - **Realm Browser**: A utility to open and modify realm database files
