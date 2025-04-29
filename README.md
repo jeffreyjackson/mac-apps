@@ -247,6 +247,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/dteoh/SlowQuitApps
 - **Stash**: Personal finance application for Mac OS X
   - http://github.com/ppearson/Stash
+- **TimeScribe**: Simple and free working time recording.
+  - https://timescribe.app
 - **ToDoOSX**: OS X app using Parse and managing to-dos
   - https://github.com/ParsePlatform/TodoOSX
 - **Vienna**: RSS/Atom Reader
