@@ -87,6 +87,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/soffes/clock-saver
 - **dshb**: OS X system monitor in Swift :large_orange_diamond:
   - https://github.com/beltex/dshb
+- **Dockit**: An application that can dock any window to the edge of the screen.
+  - https://github.com/xicheng148/Dockit
 - **Helium**: A floating browser window for OS X :large_orange_diamond:
   - https://github.com/JadenGeller/Helium
 - **KeepingYouAwake**: Prevents your Mac from going to sleep
