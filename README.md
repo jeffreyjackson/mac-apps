@@ -111,6 +111,9 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/mattgemmell/Shady
 - **tag**: A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags
   - https://github.com/jdberry/tag
+- **Eul**: A macOS status monitoring app 
+  - https://github.com/gao-sun/eul
+  
 
 ### For Developers
 - **App Reviews**: App Reviews help you keep track of user reviews for your iPhone Apps :large_orange_diamond:
