@@ -268,6 +268,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/peterdsp/macmistral](https://github.com/peterdsp/macmistral)
 - **Americano**: Simple caffeinate wrapper stay at menu bar
   - [https://github.com/LZhenHong/Americano](https://github.com/LZhenHong/Americano)
+- **Clippy**: Card-based clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter :large_orange_diamond:
+  - [https://github.com/yarasaa/Clippy](https://github.com/yarasaa/Clippy)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
