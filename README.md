@@ -172,6 +172,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/orta/gifs
 - **Grand Perspective**: Disk usage visualisation app for macOS
   - https://sourceforge.net/projects/grandperspectiv/
+- **Dusty**: Menu bar disk cleaner with an allowlist-only Swift deletion engine :large_orange_diamond:
+  - https://github.com/yagcioglutoprak/dusty
 - **HandBrake**: Cross-platform video/audio encoder/decoder
   - https://github.com/HandBrake/HandBrake
 - **Hex Fiend**: A fast and clever hex editor for Mac OS X
@@ -276,4 +278,3 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
 
 ## Apple Open Source
 [Apple Open Source](http://www.opensource.apple.com/)
-
