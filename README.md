@@ -89,6 +89,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/beltex/dshb
 - **Dockit**: An application that can dock any window to the edge of the screen.
   - https://github.com/xicheng148/Dockit
+- **Featherbar**: Featherweight menu-bar system monitor showing CPU, RAM, power, and temperature
+  - https://github.com/nim444/featherbar
 - **Helium**: A floating browser window for OS X :large_orange_diamond:
   - https://github.com/JadenGeller/Helium
 - **KeepingYouAwake**: Prevents your Mac from going to sleep
