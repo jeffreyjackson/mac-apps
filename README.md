@@ -268,6 +268,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/orta/Wallpapers
 
 ### Menubar Apps
+- **Headroom**: Claude Code usage meter — live 5h session and 7d week percentages in the menubar, color-coded as a limit approaches :large_orange_diamond:
+  - [https://github.com/patwalls/headroom](https://github.com/patwalls/headroom)
 - **MacMistral**: Your Conversational AI Companion Right in Your Mac's Menubar
   - [https://github.com/peterdsp/macmistral](https://github.com/peterdsp/macmistral)
 - **Americano**: Simple caffeinate wrapper stay at menu bar
