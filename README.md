@@ -150,6 +150,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/youknowone/VisualJSON
 - **Tempo**: Replace the Git CLI with a clear UI and AI assist :large_orange_diamond:
   - https://github.com/maoyama/Tempo
+- **Tintpad**: Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running :large_orange_diamond:
+  - https://github.com/sorkila/tintpad
 
 ### Darwin Package Managers
 - **Fink**: The fink package manager for macOS (in Perl)
