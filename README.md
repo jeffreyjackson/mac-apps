@@ -278,6 +278,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/LZhenHong/Americano](https://github.com/LZhenHong/Americano)
 - **Clippy**: Card-based clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter :large_orange_diamond:
   - [https://github.com/yarasaa/Clippy](https://github.com/yarasaa/Clippy)
+- **Yap**: On-device voice dictation. Press a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
+  - [https://github.com/FrigadeHQ/yap](https://github.com/FrigadeHQ/yap)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
