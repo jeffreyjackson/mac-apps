@@ -95,6 +95,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/JadenGeller/Helium
 - **KeepingYouAwake**: Prevents your Mac from going to sleep
   - https://github.com/newmarcel/KeepingYouAwake
+- **Keyty**: Visualizes your keyboard and mouse input in real time as an on-screen overlay for demos, tutorials, and livestreams :large_orange_diamond:
+  - https://github.com/keytyapp/Keyty
 - **Lockpaw**: macOS menu bar screen guard — lock/unlock with a hotkey :large_orange_diamond:
   - https://github.com/sorkila/lockpaw
 - **MenuMeters**: A is a set of CPU, memory, disk, and network monitoring tools for Mac OS X sitting in the menubar
