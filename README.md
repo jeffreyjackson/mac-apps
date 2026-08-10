@@ -122,7 +122,7 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   
 
 ### For Developers
-- **Agent Island**: Native companion for Claude, Codex, Gemini, Grok, and Cursor with local session status, your-turn alerts, and provider usage views :large_orange_diamond:
+- **Agent Island**: Native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, your-turn alerts, and provider usage views :large_orange_diamond:
   - https://github.com/tristan666666/agent-island
 - **App Reviews**: App Reviews help you keep track of user reviews for your iPhone Apps :large_orange_diamond:
   - https://github.com/knutigro/AppReviews
