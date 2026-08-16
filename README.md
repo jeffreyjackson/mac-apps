@@ -286,6 +286,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/yarasaa/Clippy](https://github.com/yarasaa/Clippy)
 - **Yap**: On-device voice dictation. Press a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
   - [https://github.com/FrigadeHQ/yap](https://github.com/FrigadeHQ/yap)
+- **Pulse**: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats
+  - [https://github.com/emgeorrk/pulse](https://github.com/emgeorrk/pulse)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
