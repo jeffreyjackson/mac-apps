@@ -276,6 +276,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/orta/Wallpapers
 
 ### Menubar Apps
+- **Abendrot**: Screen warmer that cuts nighttime blue light on every display :large_orange_diamond:
+  - https://github.com/matthewrball/abendrot
 - **Headroom**: Claude Code usage meter — live 5h session and 7d week percentages in the menubar, color-coded as a limit approaches :large_orange_diamond:
   - [https://github.com/patwalls/headroom](https://github.com/patwalls/headroom)
 - **MacMistral**: Your Conversational AI Companion Right in Your Mac's Menubar
