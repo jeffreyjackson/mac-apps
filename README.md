@@ -202,6 +202,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/Piero24/PlugNPlayMac
 - **Sigil**: Cross-platform editing software for EPUB files (e-books) written in C++, Qt
   - https://github.com/Sigil-Ebook/Sigil
+- **Tracexy**: Native, local-first network intelligence for live traffic and PCAP or PCAPNG investigation as app-aware sessions :large_orange_diamond:
+  - https://github.com/RockxyApp/Tracexy
 - **VideoMessageExporter**: OSX app to export Skype video messages
   - https://github.com/alvarop/VideoMessageExporter
 - **VLC**: Cross-platform media player and streaming media server written in C, C++, Qt, Objective-C
