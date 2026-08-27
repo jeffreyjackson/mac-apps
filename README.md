@@ -115,6 +115,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/SelfControlApp/selfcontrol
 - **Shady**: Menu bar app to dim Mac's screen
   - https://github.com/mattgemmell/Shady
+- **Shieldxy**: Auditable application firewall and connection monitor for macOS :large_orange_diamond:
+  - https://github.com/RockxyApp/Shieldxy
 - **tag**: A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags
   - https://github.com/jdberry/tag
 - **Eul**: A macOS status monitoring app 
