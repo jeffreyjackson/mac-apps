@@ -146,6 +146,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/kykim/rem
 - **Resign**: OSX utility to resign the IPA files
   - https://github.com/LigeiaRowena/Resign
+- **Rockxy**: Native HTTP debugging proxy for intercepting HTTPS, inspecting APIs, mocking responses, and debugging WebSocket and GraphQL traffic :large_orange_diamond:
+  - https://github.com/RockxyApp/Rockxy
 - **Touch Bar Simulator**: Use the Touch Bar on any Mac :large_orange_diamond:
   - https://github.com/sindresorhus/touch-bar-simulator
 - **Unused** - A Mac app for checking Xcode projects for unused resources
