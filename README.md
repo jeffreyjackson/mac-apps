@@ -105,6 +105,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/psutlt/mirrorapp
 - **Octosaver**: A Mac OS X Screensaver showing [Octocats](https://octodex.github.com/)
   - https://github.com/kimar/Octosaver
+- **Plonk**: Native macOS window manager with custom zones, workspaces, keep-awake, screenshots, and agent control :large_orange_diamond:
+  - https://github.com/ostapondo/Plonk
 - **Quicksilver**: Fast and free Mac OS X productivity application
   - https://github.com/quicksilver/Quicksilver
 - **SomaFM miniplayer**: Unofficial player that gives you minimal, background playback of SomaFM channels :large_orange_diamond:
