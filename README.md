@@ -298,6 +298,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/FrigadeHQ/yap](https://github.com/FrigadeHQ/yap)
 - **Pulse**: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats
   - [https://github.com/emgeorrk/pulse](https://github.com/emgeorrk/pulse)
+- **StandLock**: Stand-up break enforcer that puts a full-screen overlay on every display, with three discipline levels from a skippable prompt to full input blocking :large_orange_diamond:
+  - [https://github.com/yagizdo/StandLock](https://github.com/yagizdo/StandLock)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
