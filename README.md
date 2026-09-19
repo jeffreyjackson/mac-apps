@@ -79,6 +79,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
 ### Mac Interface Exclusives
 - **AnyBar**: OS X menubar status indicator
   - https://github.com/tonsky/AnyBar
+- **ApolloShell**: Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre :large_orange_diamond:
+  - https://github.com/Silvertree2010/ApolloShell
 - **app-menu**: The missing Applications Menu for macOS
   - https://github.com/barseghyanartur/app-menu/
 - **Awake**: An app for mac osx to prevent sleeping; inspired by Caffeine
