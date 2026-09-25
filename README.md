@@ -302,6 +302,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/emgeorrk/pulse](https://github.com/emgeorrk/pulse)
 - **StandLock**: Stand-up break enforcer that puts a full-screen overlay on every display, with three discipline levels from a skippable prompt to full input blocking :large_orange_diamond:
   - [https://github.com/yagizdo/StandLock](https://github.com/yagizdo/StandLock)
+- **Lunavect**: Claude Code and Codex companion that shows which session is working, waiting for you, or done, plus weekly and five-hour usage limits with reset times :large_orange_diamond:
+  - [https://github.com/lovach/Lunavect](https://github.com/lovach/Lunavect)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
