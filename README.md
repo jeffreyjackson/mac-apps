@@ -306,6 +306,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/lovach/Lunavect](https://github.com/lovach/Lunavect)
 - **AIQuotaBar**: Live Claude, ChatGPT, Cursor, and GitHub Copilot usage limits in the menubar, with reset countdowns, pace warnings, and alerts before a limit is hit
   - [https://github.com/yagcioglutoprak/AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar)
+- **Shotnix**: Screenshots, screen recordings, and a video editor: scrolling capture, annotation, text recognition, and recordings that open with zooms on clicks, a redrawn cursor, and on-device captions :large_orange_diamond:
+  - [https://github.com/OMARVII/Shotnix](https://github.com/OMARVII/Shotnix)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
