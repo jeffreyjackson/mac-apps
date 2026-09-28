@@ -306,6 +306,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/lovach/Lunavect](https://github.com/lovach/Lunavect)
 - **Shotnix**: Screenshots, screen recordings, and a video editor: scrolling capture, annotation, text recognition, and recordings that open with zooms on clicks, a redrawn cursor, and on-device captions :large_orange_diamond:
   - [https://github.com/OMARVII/Shotnix](https://github.com/OMARVII/Shotnix)
+- **Holeberry**: Native macOS menu bar app to monitor and control your Pi-hole instances: live blocking status and query stats, timed or indefinite disable with a countdown pill, one-click unblock of the current browser tab's domain, gravity updates, and recently blocked domains :large_orange_diamond:
+  - [https://github.com/pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
