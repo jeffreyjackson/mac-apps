@@ -304,6 +304,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/yagizdo/StandLock](https://github.com/yagizdo/StandLock)
 - **Lunavect**: Claude Code and Codex companion that shows which session is working, waiting for you, or done, plus weekly and five-hour usage limits with reset times :large_orange_diamond:
   - [https://github.com/lovach/Lunavect](https://github.com/lovach/Lunavect)
+- **AIQuotaBar**: Live Claude, ChatGPT, Cursor, and GitHub Copilot usage limits in the menubar, with reset countdowns, pace warnings, and alerts before a limit is hit
+  - [https://github.com/yagcioglutoprak/AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar)
 - **Shotnix**: Screenshots, screen recordings, and a video editor: scrolling capture, annotation, text recognition, and recordings that open with zooms on clicks, a redrawn cursor, and on-device captions :large_orange_diamond:
   - [https://github.com/OMARVII/Shotnix](https://github.com/OMARVII/Shotnix)
 
