@@ -54,13 +54,17 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
 - **TipTyper**: Simple plain-text editor for OS X with multiple useful features
   - https://github.com/brunophilipe/TipTyper
 - **Visual Studio Code**: Cross-platform code editor built in GitHub's Electron framework
-  - https://github.com/Microsoft/vscode
+  - https://github.com/Microsoft/vscode 
+- **VSCodium**: Visaul Studio Code without Microsoft branding/telemetry/licensing 
+  - https://github.com/VSCodium/vscodium 
 
 ### Web Browsers
 - **Firefox**: Cross-platform web browser
   - https://hg.mozilla.org/mozilla-central/
 - **TenFourFox**: A fork of Firefox to maintain support for the Power Mac, supporting Mac OS X 10.4 and 10.5
   - https://github.com/classilla/tenfourfox
+- **Brave Browser**: Web browser built on the Chromium engine with a strong focus on user privacy.
+  - https://github.com/brave/brave-browser
 
 ### Games
 - **Freecell**: Solitaire type card game for OS X
