@@ -61,6 +61,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
 ### Web Browsers
 - **Firefox**: Cross-platform web browser
   - https://hg.mozilla.org/mozilla-central/
+- **Yalqen**: Keyboard-first Chromium browser for developers with vertical tabs, a command bar and built-in ad and tracker blocking
+  - https://github.com/YSamed/yalqen
 - **TenFourFox**: A fork of Firefox to maintain support for the Power Mac, supporting Mac OS X 10.4 and 10.5
   - https://github.com/classilla/tenfourfox
 - **Brave Browser**: Web browser built on the Chromium engine with a strong focus on user privacy
