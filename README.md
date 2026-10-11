@@ -150,6 +150,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/git-up/GitUp
 - **KyttoMCP**: Control panel for MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex: every server against every client in one matrix, health checks, a tool-description safety scan and config backups :large_orange_diamond:
   - https://github.com/heyitsjakub/KyttoMCP
+- **Oh My Android**: Control panel for the Android Emulator and real phones over adb: one-click dark mode, font scale, RTL, TalkBack, network and GPS, a Layout Inspector in dp and a built-in MCP server :large_orange_diamond:
+  - https://github.com/ateymoori/oh-my-android
 - **Pasteboard Viewer**: An app to inspect your system pasteboard :large_orange_diamond:
   - https://github.com/sindresorhus/Pasteboard-Viewer
 - **Pods Updater**: A macOS app which helps you manage dependency releases in your Podfile
