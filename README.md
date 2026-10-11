@@ -146,6 +146,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/CocoaPods/CocoaPods-app
 - **CocoaRestClient**: A free, native Apple OS X app for testing HTTP/REST endpoints
   - https://github.com/mmattozzi/cocoa-rest-client
+- **Device Hub Pro**: Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side :large_orange_diamond:
+  - https://github.com/gitemre/device-hub-pro
 - **GitUp**: A simple but powerful Git OS X app
   - https://github.com/git-up/GitUp
 - **KyttoMCP**: Control panel for MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex: every server against every client in one matrix, health checks, a tool-description safety scan and config backups :large_orange_diamond:
