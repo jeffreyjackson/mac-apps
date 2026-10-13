@@ -150,6 +150,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/gitemre/device-hub-pro
 - **GitUp**: A simple but powerful Git OS X app
   - https://github.com/git-up/GitUp
+- **Grove**: Menu bar app and CLI for parallel Claude Code sessions on a product split across several repositories: each feature gets a workspace of git worktrees on one branch, and a session can move to another Claude account :large_orange_diamond:
+  - https://github.com/efim0v/grove
 - **KyttoMCP**: Control panel for MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex: every server against every client in one matrix, health checks, a tool-description safety scan and config backups :large_orange_diamond:
   - https://github.com/heyitsjakub/KyttoMCP
 - **Oh My Android**: Control panel for the Android Emulator and real phones over adb: one-click dark mode, font scale, RTL, TalkBack, network and GPS, a Layout Inspector in dp and a built-in MCP server :large_orange_diamond:
