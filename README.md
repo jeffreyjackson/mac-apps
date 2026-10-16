@@ -200,6 +200,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://sourceforge.net/projects/filezilla/
 - **Gifs**: A Mac App for finding GIFs
   - https://github.com/orta/gifs
+- **Glim**: File viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace, built with Rust and GPUI Kit
+  - https://github.com/NeoPanic/Glim
 - **Grand Perspective**: Disk usage visualisation app for macOS
   - https://sourceforge.net/projects/grandperspectiv/
 - **Dusty**: Menu bar disk cleaner with an allowlist-only Swift deletion engine :large_orange_diamond:
