@@ -268,7 +268,7 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/clementine-player/Clementine
 - **GraphSketcher**: A fast, simple graph drawing and data plotting app for OS X and iPad from the Omni Group
   - https://github.com/graphsketcher/GraphSketcher
-- **ItsPaint**: MS Paint for the Mac — open it, draw, close it. 2.96 MB, written in Swift
+- **ItsPaint**: MS Paint for the Mac — open it, draw, close it. Written in Swift
   - https://github.com/joshlin2201/itspaint
 - **Jekyll**: Blog-aware, static site generator in Ruby
   - https://github.com/jekyll/jekyll
