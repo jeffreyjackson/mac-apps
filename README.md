@@ -340,6 +340,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/ciro-maciel/text-to-speech](https://github.com/ciro-maciel/text-to-speech)
 - **Assistant**: Voice assistant for Claude Code: say its name, ask out loud, and it answers by voice while it works in your repositories, with speech transcribed by a local Whisper
   - [https://github.com/ciro-maciel/voice-assistant](https://github.com/ciro-maciel/voice-assistant)
+- **Swivel**: While dragging files, tap Shift, Command or Control to open a radial wheel at the pointer and convert images, video, audio, documents and archives, or resize, compress, OCR and strip metadata, all offline :large_orange_diamond:
+  - [https://github.com/jonathanlotan/Swivel](https://github.com/jonathanlotan/Swivel)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
