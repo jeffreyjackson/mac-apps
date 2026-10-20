@@ -206,6 +206,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://sourceforge.net/projects/grandperspectiv/
 - **Dusty**: Menu bar disk cleaner with an allowlist-only Swift deletion engine :large_orange_diamond:
   - https://github.com/yagcioglutoprak/dusty
+- **Cleaner**: Disk cleaner whose rules live in one public JSON file, with an uninstaller, a disk map, startup items and a 7-day quarantine that restores removed items :large_orange_diamond:
+  - https://github.com/ciro-maciel/cleaner
 - **HandBrake**: Cross-platform video/audio encoder/decoder
   - https://github.com/HandBrake/HandBrake
 - **Hex Fiend**: A fast and clever hex editor for Mac OS X
@@ -326,6 +328,16 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/OMARVII/Shotnix](https://github.com/OMARVII/Shotnix)
 - **Holeberry**: Native macOS menu bar app to monitor and control your Pi-hole instances: live blocking status and query stats, timed or indefinite disable with a countdown pill, one-click unblock of the current browser tab's domain, gravity updates, and recently blocked domains :large_orange_diamond:
   - [https://github.com/pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)
+- **Screenshots**: Screenshots and screen recording: area, window and scrolling capture, on-device text recognition, MP4 and GIF recording, annotation and pin-to-screen :large_orange_diamond:
+  - [https://github.com/ciro-maciel/screenshots](https://github.com/ciro-maciel/screenshots)
+- **Windows**: Window manager that snaps windows to halves, full screen, center or custom sizes by shortcut or by dragging them to a screen edge :large_orange_diamond:
+  - [https://github.com/ciro-maciel/windows](https://github.com/ciro-maciel/windows)
+- **Speech to Text**: Dictation: press a shortcut, speak, and the text is pasted at the cursor, transcribed on the Mac with whisper.cpp. Built with Tauri and Rust
+  - [https://github.com/ciro-maciel/speech-to-text](https://github.com/ciro-maciel/speech-to-text)
+- **Text to Speech**: Reads the text selected in any app aloud with one shortcut, with a local Piper voice or an online voice, in a small floating player. Built with Tauri and Rust
+  - [https://github.com/ciro-maciel/text-to-speech](https://github.com/ciro-maciel/text-to-speech)
+- **Assistant**: Voice assistant for Claude Code: say its name, ask out loud, and it answers by voice while it works in your repositories, with speech transcribed by a local Whisper
+  - [https://github.com/ciro-maciel/voice-assistant](https://github.com/ciro-maciel/voice-assistant)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
