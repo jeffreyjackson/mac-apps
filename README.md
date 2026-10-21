@@ -276,6 +276,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/joshlin2201/itspaint
 - **Jekyll**: Blog-aware, static site generator in Ruby
   - https://github.com/jekyll/jekyll
+- **Koru**: Local-first workspace for notes, documents and files with peer-to-peer device sync, written in Rust
+  - https://github.com/koruworks/mono
 - **MacGesture**: Global mouse gesture for Mac OS X
   - https://github.com/CodeFalling/MacGesture
 - **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X :large_orange_diamond:
