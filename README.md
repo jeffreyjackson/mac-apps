@@ -276,6 +276,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/joshlin2201/itspaint
 - **Jekyll**: Blog-aware, static site generator in Ruby
   - https://github.com/jekyll/jekyll
+- **Koru**: Local-first workspace for notes, documents and files with peer-to-peer device sync, written in Rust
+  - https://github.com/koruworks/mono
 - **MacGesture**: Global mouse gesture for Mac OS X
   - https://github.com/CodeFalling/MacGesture
 - **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X :large_orange_diamond:
@@ -342,6 +344,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/ciro-maciel/voice-assistant](https://github.com/ciro-maciel/voice-assistant)
 - **Swivel**: While dragging files, tap Shift, Command or Control to open a radial wheel at the pointer and convert images, video, audio, documents and archives, or resize, compress, OCR and strip metadata, all offline :large_orange_diamond:
   - [https://github.com/jonathanlotan/Swivel](https://github.com/jonathanlotan/Swivel)
+- **Cybokron Dock Groups**: Groups apps and websites and opens, hides, or closes a whole group from a popup over the Dock, with optional per-group Dock icons :large_orange_diamond:
+  - [https://github.com/ercanatay/cybokron-dock-groups](https://github.com/ercanatay/cybokron-dock-groups)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
