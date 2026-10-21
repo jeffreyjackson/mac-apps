@@ -340,6 +340,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/ciro-maciel/text-to-speech](https://github.com/ciro-maciel/text-to-speech)
 - **Assistant**: Voice assistant for Claude Code: say its name, ask out loud, and it answers by voice while it works in your repositories, with speech transcribed by a local Whisper
   - [https://github.com/ciro-maciel/voice-assistant](https://github.com/ciro-maciel/voice-assistant)
+- **Cybokron Dock Groups**: Groups apps and websites and opens, hides, or closes a whole group from a popup over the Dock, with optional per-group Dock icons :large_orange_diamond:
+  - [https://github.com/ercanatay/cybokron-dock-groups](https://github.com/ercanatay/cybokron-dock-groups)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
