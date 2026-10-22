@@ -188,6 +188,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/macports
 
 ### Tools
+- **Boost**: Menu bar app for memory and disk: memory pressure with a week of history, pauses idle apps instead of quitting them, cache cleanup that skips risky folders, old project build folders, large files and an uninstaller :large_orange_diamond:
+  - https://github.com/Kernel-Hunter/boost
 - **Burn**: Burn data, audio, video, and disk images to various disc formats
   - https://sourceforge.net/projects/burn-osx/
 - **Calibre**: Cross-platform e-book manager and converter written in Python, C, C++, Qt
