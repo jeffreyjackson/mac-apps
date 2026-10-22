@@ -208,6 +208,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/yagcioglutoprak/dusty
 - **Cleaner**: Disk cleaner whose rules live in one public JSON file, with an uninstaller, a disk map, startup items and a 7-day quarantine that restores removed items :large_orange_diamond:
   - https://github.com/ciro-maciel/cleaner
+- **SpaceMap**: Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs :large_orange_diamond:
+  - https://github.com/renkagod/spacemap
 - **HandBrake**: Cross-platform video/audio encoder/decoder
   - https://github.com/HandBrake/HandBrake
 - **Hex Fiend**: A fast and clever hex editor for Mac OS X
