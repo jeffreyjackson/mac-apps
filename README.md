@@ -101,6 +101,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/nim444/featherbar
 - **Helium**: A floating browser window for OS X :large_orange_diamond:
   - https://github.com/JadenGeller/Helium
+- **IconCraft**: Give any Mac app a new name and icon in Finder, the Dock and Launchpad without modifying the app; Restore all puts the originals back
+  - https://github.com/gshipman223/IconCraft
 - **KeepingYouAwake**: Prevents your Mac from going to sleep
   - https://github.com/newmarcel/KeepingYouAwake
 - **Keyty**: Visualizes your keyboard and mouse input in real time as an on-screen overlay for demos, tutorials, and livestreams :large_orange_diamond:
