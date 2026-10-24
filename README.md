@@ -242,6 +242,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/wulkano/kap
 - **Radiola**: Lightweight Internet radio player for macOS
   - https://github.com/SokoloffA/radiola
+- **AppDuo**: Native macOS app cloner with separate data directories and custom names and icons :large_orange_diamond:
+  - https://github.com/tamia6/AppDuo
 
 ### OS X Versions, GUIs and Other Wrappers
 - **Cloudy**: mac app wrapper for overcast :large_orange_diamond:
