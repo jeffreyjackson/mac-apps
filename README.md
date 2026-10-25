@@ -67,6 +67,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/classilla/tenfourfox
 - **Brave Browser**: Web browser built on the Chromium engine with a strong focus on user privacy
   - https://github.com/brave/brave-browser
+- **Stedding**: Arc-style Chromium browser with Spaces, pinned tabs and folders in a sidebar, imports your Arc setup
+  - https://github.com/ysalitrynskyi/stedding-browser
 
 ### Games
 - **Freecell**: Solitaire type card game for OS X
