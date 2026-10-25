@@ -278,6 +278,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/jekyll/jekyll
 - **Koru**: Local-first workspace for notes, documents and files with peer-to-peer device sync, written in Rust
   - https://github.com/koruworks/mono
+- **Ledge**: Turns the MacBook notch into a status area for now playing, a timer, your next meeting, weather, notes and Keep Awake :large_orange_diamond:
+  - https://github.com/egemertbalcik/Ledge
 - **MacGesture**: Global mouse gesture for Mac OS X
   - https://github.com/CodeFalling/MacGesture
 - **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X :large_orange_diamond:
