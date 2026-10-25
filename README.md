@@ -93,6 +93,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/xiaozi/Awake.app
 - **Clock-Saver**: Simple clock screensaver :large_orange_diamond:
   - https://github.com/soffes/clock-saver
+- **Command Reopen**: Restores an app's minimized windows or reopens closed windows using native macOS Cmd+Tab. :large_orange_diamond:
+  - https://github.com/Feng6611/mac-command-reopen
 - **dshb**: OS X system monitor in Swift :large_orange_diamond:
   - https://github.com/beltex/dshb
 - **Dockit**: An application that can dock any window to the edge of the screen.
