@@ -180,6 +180,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/maoyama/Tempo
 - **Tintpad**: Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running :large_orange_diamond:
   - https://github.com/sorkila/tintpad
+- **rfig**: Command completion menus and directory-scoped history suggestions for zsh, Bash and Fish on macOS and Linux
+  - https://github.com/tamia6/rfig
 
 ### Darwin Package Managers
 - **Fink**: The fink package manager for macOS (in Perl)
