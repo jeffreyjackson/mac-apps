@@ -364,6 +364,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/ercanatay/cybokron-dock-groups](https://github.com/ercanatay/cybokron-dock-groups)
 - **LayoutKeeper**: Saves window layouts per external monitor and puts every window back, on the same Space, when the monitor is plugged in again :large_orange_diamond:
   - [https://github.com/tumingke0/LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)
+- **RamDock**: RAM and CPU usage in the menubar, colored by load, with a process list where any process can be quit or force quit :large_orange_diamond:
+  - https://github.com/simonsruggi/RamDock
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
