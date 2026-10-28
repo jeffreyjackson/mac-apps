@@ -284,6 +284,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/mipstian/catch
 - **Clementine**: Cross-platorm music player and library organizer written in C++, Qt
   - https://github.com/clementine-player/Clementine
+- **Cockpit**: Tactile macOS HUD and menu bar workspace dashboard for glanceable system monitoring :large_orange_diamond:
+  - https://github.com/Yvsleyen00941/Cockpit
 - **GraphSketcher**: A fast, simple graph drawing and data plotting app for OS X and iPad from the Omni Group
   - https://github.com/graphsketcher/GraphSketcher
 - **ItsPaint**: MS Paint for the Mac — open it, draw, close it. Written in Swift
@@ -366,6 +368,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/tumingke0/LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)
 - **StockDock**: Stocks, ETFs, indices, crypto and portfolio P&L in the menubar, with real-time prices, pre-market and after-hours quotes, price alerts and a full desktop window :large_orange_diamond:
   - https://github.com/simonsruggi/StockDock
+- **Castbar**: Control Chromecast, Google Home and Nest speakers from the menu bar, with playback controls and per-device volume
+  - [https://github.com/itssarthak/castbar](https://github.com/itssarthak/castbar)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
