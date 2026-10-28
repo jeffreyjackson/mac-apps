@@ -366,6 +366,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/ercanatay/cybokron-dock-groups](https://github.com/ercanatay/cybokron-dock-groups)
 - **LayoutKeeper**: Saves window layouts per external monitor and puts every window back, on the same Space, when the monitor is plugged in again :large_orange_diamond:
   - [https://github.com/tumingke0/LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)
+- **StockDock**: Stocks, ETFs, indices, crypto and portfolio P&L in the menubar, with real-time prices, pre-market and after-hours quotes, price alerts and a full desktop window :large_orange_diamond:
+  - https://github.com/simonsruggi/StockDock
 - **Castbar**: Control Chromecast, Google Home and Nest speakers from the menu bar, with playback controls and per-device volume
   - [https://github.com/itssarthak/castbar](https://github.com/itssarthak/castbar)
 
