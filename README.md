@@ -374,6 +374,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/simonsruggi/StockDock
 - **Castbar**: Control Chromecast, Google Home and Nest speakers from the menu bar, with playback controls and per-device volume
   - [https://github.com/itssarthak/castbar](https://github.com/itssarthak/castbar)
+- **Show Desktop**: Hide every window with one click or ⌃⇧D, then bring them all back right where they were :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/show-desktop](https://github.com/stanczykwyatt/show-desktop)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
