@@ -378,6 +378,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/stanczykwyatt/show-desktop](https://github.com/stanczykwyatt/show-desktop)
 - **Copy 2FA**: Copy your newest 2FA code from Mail or Messages with one shortcut, plus a Touch ID authenticator :large_orange_diamond:
   - [https://github.com/stanczykwyatt/copy-2fa](https://github.com/stanczykwyatt/copy-2fa)
+- **Who Stole My Focus**: Find out which app keeps jumping in front of your work, even mid-typing, with what it took focus from and when :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/who-stole-my-focus](https://github.com/stanczykwyatt/who-stole-my-focus)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
