@@ -376,6 +376,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/itssarthak/castbar](https://github.com/itssarthak/castbar)
 - **Show Desktop**: Hide every window with one click or ⌃⇧D, then bring them all back right where they were :large_orange_diamond:
   - [https://github.com/stanczykwyatt/show-desktop](https://github.com/stanczykwyatt/show-desktop)
+- **Copy 2FA**: Copy your newest 2FA code from Mail or Messages with one shortcut, plus a Touch ID authenticator :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/copy-2fa](https://github.com/stanczykwyatt/copy-2fa)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
