@@ -380,6 +380,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/stanczykwyatt/copy-2fa](https://github.com/stanczykwyatt/copy-2fa)
 - **Who Stole My Focus**: Find out which app keeps jumping in front of your work, even mid-typing, with what it took focus from and when :large_orange_diamond:
   - [https://github.com/stanczykwyatt/who-stole-my-focus](https://github.com/stanczykwyatt/who-stole-my-focus)
+- **Safelight**: Schedules the color filter, brightness and Light/Dark appearance, fading the screen from white to deep red at night :large_orange_diamond:
+  - [https://github.com/mopfaff/Safelight](https://github.com/mopfaff/Safelight)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
