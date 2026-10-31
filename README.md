@@ -306,6 +306,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/qgis/QGIS
 - **Quickwords**: Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ✏️
   - https://quickwords.co
+- **Rime**: Distraction-free macOS PDF reader where everything outside the page freezes into frosted ice :large_orange_diamond:
+  - https://github.com/Yvsleyen00941/Rime
 - **Seashore**: Image editor based on parts of GIMP but built entirely in Cocoa
   - https://sourceforge.net/projects/seashore/
 - **Simple Comic**: Comic viewer
