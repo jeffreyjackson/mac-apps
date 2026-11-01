@@ -384,6 +384,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/stanczykwyatt/who-stole-my-focus](https://github.com/stanczykwyatt/who-stole-my-focus)
 - **Safelight**: Schedules the color filter, brightness and Light/Dark appearance, fading the screen from white to deep red at night :large_orange_diamond:
   - [https://github.com/mopfaff/Safelight](https://github.com/mopfaff/Safelight)
+- **Annotator**: Draw arrows, boxes, highlights, spotlight, zoom and blur over any app during demos, code reviews and lessons; marks stay editable :large_orange_diamond:
+  - [https://github.com/dorlugasigal/annotator](https://github.com/dorlugasigal/annotator)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
