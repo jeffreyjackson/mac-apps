@@ -228,18 +228,24 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/pornel/ImageAlpha
 - **iro**: Color picker menu bar app for Mac OSX 10.9+
   - https://github.com/ripeworks/iro
+- **LumaView**: Native folder-based image viewer with EXIF information and multipage PDF support :large_orange_diamond:
+  - https://github.com/ixiehao/LumaView
 - **mac2imgur**: Upload screenshots to imgur :large_orange_diamond:
   - https://github.com/mileswd/mac2imgur
 - **MactsAsBeacon**: A tiny app to turn a Bluetooth LE-equipped Mac into an iBeacon
   - https://github.com/timd/MactsAsBeacon
 - **Monolingual**: Remove extra language localization files to free up hard disk space :large_orange_diamond:
   - https://github.com/IngmarStein/Monolingual
+- **MP4Flow**: Native FFmpeg front end for batch MP4 conversion, trimming, cropping, rotation, and merging; requires FFmpeg and ffprobe :large_orange_diamond:
+  - https://github.com/ixiehao/MP4Flow
 - **my41cx**: Microcode emulator for HP-41 C/CV/CX (OS X & iOS) :large_orange_diamond:
   - https://github.com/mperovic/my41
 - **Peel**: Uninstall Mac apps with every file they leave behind, and see why each one belongs :large_orange_diamond:
   - https://github.com/TuguiDragos/Peel
 - **PlugNPlayMac**: A script to automate tasks when connect a device to your Mac
   - https://github.com/Piero24/PlugNPlayMac
+- **ShotMap**: Native video storyboard tool with smart frame selection, a manual timeline, and local PNG/JPG export :large_orange_diamond:
+  - https://github.com/ixiehao/ShotMap
 - **Sigil**: Cross-platform editing software for EPUB files (e-books) written in C++, Qt
   - https://github.com/Sigil-Ebook/Sigil
 - **Tracexy**: Native, local-first network intelligence for live traffic and PCAP or PCAPNG investigation as app-aware sessions :large_orange_diamond:
