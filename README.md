@@ -392,6 +392,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/mopfaff/Safelight](https://github.com/mopfaff/Safelight)
 - **Annotator**: Draw arrows, boxes, highlights, spotlight, zoom and blur over any app during demos, code reviews and lessons; marks stay editable :large_orange_diamond:
   - [https://github.com/dorlugasigal/annotator](https://github.com/dorlugasigal/annotator)
+- **TimeMachineEjector**: Ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due :large_orange_diamond:
+  - [https://github.com/wata/TimeMachineEjector](https://github.com/wata/TimeMachineEjector)
 - **AudioAnchor**: Keeps your sound output on the device you choose, like your AirPods, and switches it back whenever macOS moves it somewhere else :large_orange_diamond:
   - [https://github.com/wata/AudioAnchor](https://github.com/wata/AudioAnchor)
 
