@@ -398,6 +398,20 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/wata/TimeMachineEjector](https://github.com/wata/TimeMachineEjector)
 - **AudioAnchor**: Keeps your sound output on the device you choose, like your AirPods, and switches it back whenever macOS moves it somewhere else :large_orange_diamond:
   - [https://github.com/wata/AudioAnchor](https://github.com/wata/AudioAnchor)
+- **Memo Export**: Export your Voice Memos transcripts as Markdown with the audio, timestamped and Obsidian-friendly :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/memo-export](https://github.com/stanczykwyatt/memo-export)
+- **Podcast Export**: Export your Apple Podcasts subscriptions as OPML for any podcast app, plus your listening history as notes and a spreadsheet :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/podcast-export](https://github.com/stanczykwyatt/podcast-export)
+- **Reading List Export**: Export your Safari Reading List as Markdown, a bookmarks file for read-later apps and an Instapaper-style CSV :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/reading-list-export](https://github.com/stanczykwyatt/reading-list-export)
+- **Unblock Eject**: See which apps are keeping a disk from ejecting, quit them politely and eject :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/unblock-eject](https://github.com/stanczykwyatt/unblock-eject)
+- **Next Departures**: Your bus and train stops' next departures, live, in the menu bar :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/next-departures](https://github.com/stanczykwyatt/next-departures)
+- **Right Folder**: The folders open in Finder, recent folders and favorites beside every Open and Save dialog, one click away :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/right-folder](https://github.com/stanczykwyatt/right-folder)
+- **Tonecap**: Design your keyboard's sound, synthesized with no recordings, and hear it as you type :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/tonecap](https://github.com/stanczykwyatt/tonecap)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
