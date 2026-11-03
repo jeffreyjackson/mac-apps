@@ -390,6 +390,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/stanczykwyatt/copy-2fa](https://github.com/stanczykwyatt/copy-2fa)
 - **Who Stole My Focus**: Find out which app keeps jumping in front of your work, even mid-typing, with what it took focus from and when :large_orange_diamond:
   - [https://github.com/stanczykwyatt/who-stole-my-focus](https://github.com/stanczykwyatt/who-stole-my-focus)
+- **AI Footprint**: See what AI coding tools leave on your Mac: disk, background processes, MCP servers and login items, with a receipt for every update :large_orange_diamond:
+  - [https://github.com/stanczykwyatt/ai-footprint](https://github.com/stanczykwyatt/ai-footprint)
 - **Safelight**: Schedules the color filter, brightness and Light/Dark appearance, fading the screen from white to deep red at night :large_orange_diamond:
   - [https://github.com/mopfaff/Safelight](https://github.com/mopfaff/Safelight)
 - **Annotator**: Draw arrows, boxes, highlights, spotlight, zoom and blur over any app during demos, code reviews and lessons; marks stay editable :large_orange_diamond:
