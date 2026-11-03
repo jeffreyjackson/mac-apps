@@ -186,6 +186,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/sorkila/tintpad
 - **rfig**: Command completion menus and directory-scoped history suggestions for zsh, Bash and Fish on macOS and Linux
   - https://github.com/tamia6/rfig
+- **Breaker**: Watches the launchd jobs, cron jobs, Folder Actions and SwiftBar plugins you set up yourself, and notifies you the moment one breaks :large_orange_diamond:
+  - [https://github.com/wata/Breaker](https://github.com/wata/Breaker)
 
 ### Darwin Package Managers
 - **Fink**: The fink package manager for macOS (in Perl)
