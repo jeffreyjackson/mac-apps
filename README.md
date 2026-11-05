@@ -198,6 +198,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/macports
 
 ### Tools
+- **Kilobat CLI**: macOS network monitoring and diagnostics from the terminal, with a local MCP server :large_orange_diamond:
+  - https://github.com/seifip/kilobat-cli
 - **Boost**: Menu bar app for memory and disk: memory pressure with a week of history, pauses idle apps instead of quitting them, cache cleanup that skips risky folders, old project build folders, large files and an uninstaller :large_orange_diamond:
   - https://github.com/Kernel-Hunter/boost
 - **Burn**: Burn data, audio, video, and disk images to various disc formats
