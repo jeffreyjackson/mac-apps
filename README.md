@@ -296,6 +296,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - https://github.com/clementine-player/Clementine
 - **Cockpit**: Tactile macOS HUD and menu bar workspace dashboard for glanceable system monitoring :large_orange_diamond:
   - https://github.com/Yvsleyen00941/Cockpit
+- **Frit**: Glaze recipe book for potters that reworks a recipe when a material changes, moves one oxide to a target and finds fired test tiles by code :large_orange_diamond:
+  - [https://github.com/theluckystrike/frit](https://github.com/theluckystrike/frit)
 - **GraphSketcher**: A fast, simple graph drawing and data plotting app for OS X and iPad from the Omni Group
   - https://github.com/graphsketcher/GraphSketcher
 - **ItsPaint**: MS Paint for the Mac — open it, draw, close it. Written in Swift
@@ -416,6 +418,8 @@ Visit this supporting repository here: [mac-frameworks](https://github.com/jeffr
   - [https://github.com/stanczykwyatt/right-folder](https://github.com/stanczykwyatt/right-folder)
 - **Tonecap**: Design your keyboard's sound, synthesized with no recordings, and hear it as you type :large_orange_diamond:
   - [https://github.com/stanczykwyatt/tonecap](https://github.com/stanczykwyatt/tonecap)
+- **CallReady**: Shows your next calendar call, puts your preferred microphone back when a Bluetooth headset takes over, and mutes the microphone with one shortcut :large_orange_diamond:
+  - [https://github.com/theluckystrike/barframe-apps/tree/main/apps/CallReady](https://github.com/theluckystrike/barframe-apps/tree/main/apps/CallReady)
 
 ## Apple Sample Projects
 [Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
