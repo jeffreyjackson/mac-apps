@@ -25,6 +25,7 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/iss
 - [Apple Sample Projects](#apple-sample-projects)
 - [Apple Open Source](#apple-open-source)
 - [See also](#see-also)
+- [License](#license)
 
 ## macOS Apps
 
@@ -262,3 +263,7 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/iss
 ## See also
 
 - [mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) - Companion list of open-source macOS frameworks.
+
+## License
+
+Released under [CC0 1.0 Universal](LICENSE). By contributing, you agree to release your contribution under the same terms.
