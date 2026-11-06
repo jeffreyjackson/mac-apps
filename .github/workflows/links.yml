@@ -1,0 +1,65 @@
+name: Links
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - lychee.toml
+      - .github/workflows/links.yml
+  schedule:
+    # Every Monday at 06:00 UTC.
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Check README links
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Run lychee
+        id: lychee
+        # The action authenticates github.com requests with github.token by
+        # default, so GitHub links are not rate-limited.
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Options such as excludes live in lychee.toml.
+          args: README.md
+          output: lychee/out.md
+          # Fail the check on pull requests; on the schedule, report through an issue instead.
+          fail: ${{ github.event_name == 'pull_request' }}
+
+      - name: Find the open link-check issue
+        id: existing
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh label create link-check --description "Automated link check report" --color d73a4a --force
+          number="$(gh issue list --label link-check --state open --json number --jq '.[0].number // empty')"
+          echo "number=${number}" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update the link-check issue
+        if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Broken links in README
+          content-filepath: lychee/out.md
+          labels: link-check
+          issue-number: ${{ steps.existing.outputs.number }}
+
+      - name: Close the link-check issue once every link passes
+        if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code == 0 && steps.existing.outputs.number != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE: ${{ steps.existing.outputs.number }}
+        run: gh issue close "$ISSUE" --comment "All README links pass again."

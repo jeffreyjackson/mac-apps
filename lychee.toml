@@ -1,0 +1,20 @@
+# Configuration for lychee (https://lychee.cli.rs), used by
+# .github/workflows/links.yml and by running `lychee README.md` locally.
+
+no_progress = true
+max_retries = 2
+timeout = 30
+max_concurrency = 16
+
+# Treat rate limiting as a pass rather than a dead link.
+accept = ["200..=206", "429"]
+
+# Hosts that block or rate-limit automated clients. Keep this list short.
+exclude = [
+    # Blocks GitHub-hosted runners.
+    "^https://opensource\\.apple\\.com",
+    # SourceForge answers 403 to non-browser user agents.
+    "^https://sourceforge\\.net",
+    # Same bot protection as SourceForge.
+    "^https://filezilla-project\\.org",
+]
