@@ -1,428 +1,264 @@
-# Open-Source Mac Apps
+# Open-Source macOS Apps
 
-Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/issues) or [pull requests](https://github.com/jeffreyjackson/mac-apps/pulls).
+A curated list of open-source macOS apps and Mac-focused command line tools.
 
-:large_orange_diamond: Swift projects
+Feel free to contribute: [issues](https://github.com/jeffreyjackson/mac-apps/issues) or [pull requests](https://github.com/jeffreyjackson/mac-apps/pulls). Read [CONTRIBUTING.md](CONTRIBUTING.md) before adding an entry.
 
-## OS X Frameworks
+:large_orange_diamond: Swift projects. Entries marked `(archived)` are read-only upstream but still worth knowing about.
 
-Visit this supporting repository here: [mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
+## Contents
 
-## OS X Apps
+- [macOS Apps](#macos-apps)
+  - [AI and LLM](#ai-and-llm)
+  - [Communication](#communication)
+  - [Text Editors and IDEs](#text-editors-and-ides)
+  - [Web Browsers](#web-browsers)
+  - [Media (audio, video, images)](#media-audio-video-images)
+  - [Games](#games)
+  - [Window Management and Input](#window-management-and-input)
+  - [Developer Tools](#developer-tools)
+  - [Package Managers](#package-managers)
+  - [System Utilities](#system-utilities)
+  - [Productivity](#productivity)
+  - [Menu Bar Apps](#menu-bar-apps)
+  - [Screensavers and Wallpapers](#screensavers-and-wallpapers)
+- [Apple Sample Projects](#apple-sample-projects)
+- [Apple Open Source](#apple-open-source)
+- [See also](#see-also)
+
+## macOS Apps
+
+### AI and LLM
+
+- [AI Footprint](https://github.com/stanczykwyatt/ai-footprint) - Shows what AI coding tools leave on your Mac: disk usage, background processes, MCP servers and login items. :large_orange_diamond:
+- [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) - Live Claude, ChatGPT, Cursor and GitHub Copilot usage limits in the menu bar, with reset countdowns and alerts.
+- [Assistant](https://github.com/ciro-maciel/voice-assistant) - Voice assistant for Claude Code that listens, answers by voice and transcribes speech with a local Whisper model.
+- [Brow](https://github.com/efim0v/brow) - Shows Claude Code usage limits in the MacBook notch and runs parallel sessions in git worktrees. :large_orange_diamond:
+- [Headroom](https://github.com/patwalls/headroom) - Claude Code usage meter showing session and weekly percentages in the menu bar. (archived)
+- [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Control panel for MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex. :large_orange_diamond:
+- [Lunavect](https://github.com/lovach/Lunavect) - Claude Code and Codex companion showing session status and usage limits with reset times. :large_orange_diamond:
+- [PromptBar](https://github.com/peterdsp/PromptBar) - Access multiple AI chats from the menu bar without opening a browser.
+- [Tintpad](https://github.com/sorkila/tintpad) - Hotkey launcher that opens a terminal at the right repo with a coding agent already running. :large_orange_diamond:
 
 ### Communication
-- **Adium**: Instant Messaging Client
-  - https://github.com/adium/adium
-- **Bitpost**: OS X app for Bitmessage
-  - https://github.com/Voluntarynet/Bitpost
-- **Colloquy**: An IRC client for Mac OS X and iOS
-  - https://github.com/colloquy/colloquy
-- **fb-mac-messenger**: Mac wrapper for Facebook messenger
-  - https://github.com/rsms/fb-mac-messenger
-- **Goofy**: OS X client for Facebook Messenger
-  - https://github.com/danielbuechele/goofy
-- **M**: Email client with device-to-device encryption for messages sent between M users
-  - https://github.com/Mynigma/M
-- **WhatsMac**: A native Mac app wrapper for WhatsApp Web
-  - https://github.com/stonesam92/ChitChat
-- **Caprine**: Elegant Facebook Messenger desktop app
-  - https://github.com/sindresorhus/caprine
-- **LimeChat**: LimeChat is an IRC client for Mac OS X.
-  - https://github.com/psychs/limechat
-- **Dejalu**: Fast and Simple Email Client.
-  - https://github.com/dinhviethoa/dejalu
 
-### Text Editors
-- **Atom**: Cross-platform hackable text editor built in GitHub's Electron framework
-  - https://github.com/atom/atom
-- **Brackets**: Cross-platform code editor for the web, written in JavaScript, HTML and CSS
-  - https://github.com/adobe/brackets
-- **CotEditor**: Lightweight plain-text editor for macOS :large_orange_diamond:
-  - https://github.com/coteditor/CotEditor
-- **FocusWriter**: Cross-platform simple fullscreen word processor written in C++, Qt
-  - https://github.com/gottcode/focuswriter
-- **LibreOffice**: Cross-platform office suite written in C++, Java, and Python
-  - https://cgit.freedesktop.org/libreoffice
-- **macdown**: Markdown editor
-  - https://github.com/uranusjr/macdown
-- **Marp**: Markdown-based presentation creator built in GitHub's Electron framework
-  - https://github.com/yhatt/marp
-- **nvALT**: MultiMarkdown version (with HTML source tab) of Notational Velocity, mouseless Mac OS X note-taking app
-  - https://github.com/ttscoff/nv
-- **TextMate**: A graphical text editor for OS X 10.9+
-  - https://github.com/textmate/textmate
-- **TipTyper**: Simple plain-text editor for OS X with multiple useful features
-  - https://github.com/brunophilipe/TipTyper
-- **Visual Studio Code**: Cross-platform code editor built in GitHub's Electron framework
-  - https://github.com/Microsoft/vscode 
-- **VSCodium**: Visaul Studio Code without Microsoft branding/telemetry/licensing 
-  - https://github.com/VSCodium/vscodium 
+- [Adium](https://github.com/adium/adium) - Instant messaging client.
+- [Bitpost](https://github.com/VoluntaryLabs/Bitpost) - Bitmessage client.
+- [CallReady](https://github.com/theluckystrike/barframe-apps/tree/main/apps/CallReady) - Shows your next calendar call, restores your preferred microphone and mutes it with one shortcut. :large_orange_diamond:
+- [Caprine](https://github.com/sindresorhus/caprine) - Facebook Messenger desktop app.
+- [Colloquy](https://github.com/colloquy/colloquy) - IRC client for macOS and iOS.
+- [Dejalu](https://github.com/dinhvh/dejalu) - Email client.
+- [fb-mac-messenger](https://github.com/rsms/fb-mac-messenger) - Mac wrapper for Facebook Messenger.
+- [Goofy](https://github.com/danielbuechele/goofy) - Facebook Messenger client for macOS.
+- [LimeChat](https://github.com/psychs/limechat) - IRC client for macOS.
+- [M](https://github.com/Mynigma/M) - Email client with device-to-device encryption for messages between M users.
+- [WhatsMac](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web.
+
+### Text Editors and IDEs
+
+- [Atom](https://github.com/atom/atom) - Hackable cross-platform text editor built on Electron. (archived)
+- [Brackets](https://github.com/adobe/brackets) - Cross-platform code editor for the web, written in JavaScript, HTML and CSS. (archived)
+- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight plain-text editor for macOS. :large_orange_diamond:
+- [FocusWriter](https://github.com/gottcode/focuswriter) - Cross-platform fullscreen word processor written in C++ and Qt.
+- [MacDown](https://github.com/MacDownApp/macdown) - Markdown editor.
+- [Markoff](https://github.com/kaishin/markoff) - Lightweight Markdown (CommonMark) previewer for macOS. :large_orange_diamond:
+- [Marp](https://github.com/yhatt/marp) - Markdown presentation writer built on Electron. (archived)
+- [nvALT](https://github.com/ttscoff/nv) - MultiMarkdown fork of Notational Velocity, a mouseless note-taking app.
+- [TextMate](https://github.com/textmate/textmate) - Graphical text editor for macOS.
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform code editor built on Electron.
+- [VSCodium](https://github.com/VSCodium/vscodium) - Visual Studio Code without Microsoft branding, telemetry or licensing.
 
 ### Web Browsers
-- **Firefox**: Cross-platform web browser
-  - https://hg.mozilla.org/mozilla-central/
-- **Yalqen**: Keyboard-first Chromium browser for developers with vertical tabs, a command bar and built-in ad and tracker blocking
-  - https://github.com/YSamed/yalqen
-- **TenFourFox**: A fork of Firefox to maintain support for the Power Mac, supporting Mac OS X 10.4 and 10.5
-  - https://github.com/classilla/tenfourfox
-- **Brave Browser**: Web browser built on the Chromium engine with a strong focus on user privacy
-  - https://github.com/brave/brave-browser
-- **Stedding**: Arc-style Chromium browser with Spaces, pinned tabs and folders in a sidebar, imports your Arc setup
-  - https://github.com/ysalitrynskyi/stedding-browser
+
+- [Brave Browser](https://github.com/brave/brave-browser) - Web browser built on Chromium with a focus on privacy.
+- [Firefox](https://github.com/mozilla-firefox/firefox) - Cross-platform web browser.
+- [Helium](https://github.com/JadenGeller/Helium) - Floating browser window that stays on top of other apps. :large_orange_diamond: (archived)
+- [Stedding](https://github.com/ysalitrynskyi/stedding-browser) - Arc-style Chromium browser with Spaces, pinned tabs and sidebar folders.
+- [TenFourFox](https://github.com/classilla/tenfourfox) - Firefox fork maintaining support for PowerPC Macs on Mac OS X 10.4 and 10.5.
+- [Yalqen](https://github.com/YSamed/yalqen) - Keyboard-first Chromium browser for developers with vertical tabs, a command bar and ad blocking.
+
+### Media (audio, video, images)
+
+- [Audacity](https://github.com/audacity/audacity) - Cross-platform multi-track audio editor and recorder.
+- [Carol](https://github.com/AnaghSharma/Carol) - Minimal lyrics app that lives in the menu bar, built with SwiftUI.
+- [Castbar](https://github.com/itssarthak/castbar) - Control Chromecast, Google Home and Nest speakers from the menu bar.
+- [Catch](https://github.com/mipstian/catch) - Menu bar app that downloads torrents from RSS feeds (broadcatching). :large_orange_diamond:
+- [Clementine](https://github.com/clementine-player/Clementine) - Cross-platform music player and library organizer written in C++ and Qt.
+- [Gifs](https://github.com/orta/gifs) - Mac app for finding GIFs. (archived)
+- [HandBrake](https://github.com/HandBrake/HandBrake) - Cross-platform video transcoder.
+- [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. (archived)
+- [ItsPaint](https://github.com/joshlin2201/itspaint) - MS Paint for the Mac, written in Swift.
+- [Kap](https://github.com/wulkano/kap) - Screen recorder built with web technology.
+- [LumaView](https://github.com/ixiehao/LumaView) - Folder-based image viewer with EXIF information and multipage PDF support. :large_orange_diamond:
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload screenshots and images to Imgur. :large_orange_diamond:
+- [MP4Flow](https://github.com/ixiehao/MP4Flow) - FFmpeg front end for batch MP4 conversion, trimming, cropping, rotation and merging; needs FFmpeg installed. :large_orange_diamond:
+- [Radiola](https://github.com/SokoloffA/radiola) - Lightweight Internet radio player for macOS.
+- [Screenshots](https://github.com/ciro-maciel/screenshots) - Area, window and scrolling capture, text recognition, MP4 and GIF recording and annotation. :large_orange_diamond:
+- [Seashore](https://github.com/robaho/seashore) - Image editor based on parts of GIMP, built entirely in Cocoa.
+- [ShotMap](https://github.com/ixiehao/ShotMap) - Video storyboard tool with smart frame selection, a manual timeline and PNG/JPG export. :large_orange_diamond:
+- [Shotnix](https://github.com/OMARVII/Shotnix) - Screenshots, screen recordings and a video editor with scrolling capture, annotation and text recognition. :large_orange_diamond:
+- [Simple Comic](https://github.com/arauchfuss/Simple-Comic) - Comic viewer.
+- [SomaFM miniplayer](https://github.com/ealeksandrov/SomaFM-miniplayer) - Unofficial player for minimal background playback of SomaFM channels. :large_orange_diamond:
+- [Soundcleod](https://github.com/salomvary/soundcleod) - Standalone macOS browser for SoundCloud. (archived)
+- [Tonecap](https://github.com/stanczykwyatt/tonecap) - Design your keyboard's sound, synthesized with no recordings, and hear it as you type. :large_orange_diamond:
+- [VLC](https://github.com/videolan/vlc) - Cross-platform media player and streaming server written in C, C++ and Objective-C.
 
 ### Games
-- **Freecell**: Solitaire type card game for OS X
-  - https://github.com/alisdair/freecell
-- **Open Emu**: Multiple video game system
-  - http://openemu.org/
-- **Screentendo**: Turn your screen into a playable level of Mario
-  - https://github.com/AaronRandall/Screentendo
-- **stockfish-mac**: Beautiful, powerful chess app for the Mac
-  - https://github.com/daylen/stockfish-mac
-- **Snk**: Snake (with a twist) in Swift for Mac :large_orange_diamond:
-  - https://github.com/sfsam/Snk
-- **GreenMahjong**: Solitaire mahjong game with several themes and layouts
-  - https://github.com/danbeck/green-mahjong
-  
-### Mac Interface Exclusives
-- **AnyBar**: OS X menubar status indicator
-  - https://github.com/tonsky/AnyBar
-- **ApolloShell**: Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre :large_orange_diamond:
-  - https://github.com/Silvertree2010/ApolloShell
-- **app-menu**: The missing Applications Menu for macOS
-  - https://github.com/barseghyanartur/app-menu/
-- **Awake**: An app for mac osx to prevent sleeping; inspired by Caffeine
-  - https://github.com/xiaozi/Awake.app
-- **Clock-Saver**: Simple clock screensaver :large_orange_diamond:
-  - https://github.com/soffes/clock-saver
-- **Command Reopen**: Restores an app's minimized windows or reopens closed windows using native macOS Cmd+Tab. :large_orange_diamond:
-  - https://github.com/Feng6611/mac-command-reopen
-- **dshb**: OS X system monitor in Swift :large_orange_diamond:
-  - https://github.com/beltex/dshb
-- **Dockit**: An application that can dock any window to the edge of the screen.
-  - https://github.com/xicheng148/Dockit
-- **Featherbar**: Featherweight menu-bar system monitor showing CPU, RAM, power, and temperature
-  - https://github.com/nim444/featherbar
-- **Helium**: A floating browser window for OS X :large_orange_diamond:
-  - https://github.com/JadenGeller/Helium
-- **IconCraft**: Give any Mac app a new name and icon in Finder, the Dock and Launchpad without modifying the app; Restore all puts the originals back
-  - https://github.com/gshipman223/IconCraft
-- **KeepingYouAwake**: Prevents your Mac from going to sleep
-  - https://github.com/newmarcel/KeepingYouAwake
-- **Keyty**: Visualizes your keyboard and mouse input in real time as an on-screen overlay for demos, tutorials, and livestreams :large_orange_diamond:
-  - https://github.com/keytyapp/Keyty
-- **Lockpaw**: macOS menu bar screen guard — lock/unlock with a hotkey :large_orange_diamond:
-  - https://github.com/sorkila/lockpaw
-- **MenuMeters**: A is a set of CPU, memory, disk, and network monitoring tools for Mac OS X sitting in the menubar
-  - https://github.com/yujitach/MenuMeters
-- **mirrorapp**: Mirror Enterprise iOS and OSX App
-  - https://github.com/psutlt/mirrorapp
-- **Octosaver**: A Mac OS X Screensaver showing [Octocats](https://octodex.github.com/)
-  - https://github.com/kimar/Octosaver
-- **Plonk**: Native macOS window manager with custom zones, workspaces, keep-awake, screenshots, and agent control :large_orange_diamond:
-  - https://github.com/ostapondo/Plonk
-- **Quicksilver**: Fast and free Mac OS X productivity application
-  - https://github.com/quicksilver/Quicksilver
-- **SomaFM miniplayer**: Unofficial player that gives you minimal, background playback of SomaFM channels :large_orange_diamond:
-  - https://github.com/ealeksandrov/SomaFM-miniplayer
-- **Spectacle**: Organize your windows without using a mouse
-  - https://github.com/eczarny/spectacle
-- **SelfControl**: A free Mac application to help you avoid distracting websites
-  - https://github.com/SelfControlApp/selfcontrol
-- **Shady**: Menu bar app to dim Mac's screen
-  - https://github.com/mattgemmell/Shady
-- **Shieldxy**: Auditable application firewall and connection monitor for macOS :large_orange_diamond:
-  - https://github.com/RockxyApp/Shieldxy
-- **tag**: A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags
-  - https://github.com/jdberry/tag
-- **Eul**: A macOS status monitoring app 
-  - https://github.com/gao-sun/eul
-  
 
-### For Developers
-- **Agent Island**: Native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, your-turn alerts, and provider usage views :large_orange_diamond:
-  - https://github.com/tristan666666/agent-island
-- **App Reviews**: App Reviews help you keep track of user reviews for your iPhone Apps :large_orange_diamond:
-  - https://github.com/knutigro/AppReviews
-- **Brow**: Shows the 5-hour and weekly limits of every Claude Code account in the MacBook notch, and its Workspaces menu bar item runs parallel Claude Code sessions in git worktrees across several repositories :large_orange_diamond:
-  - https://github.com/efim0v/brow
-- **Cakebrew**: Manage your Homebrew formulas with style
-  - https://github.com/brunophilipe/Cakebrew
-- **CCMenu**: CCMenu is a Mac application to monitor continuous integration servers
-  - https://github.com/erikdoe/ccmenu
-- **Cocoapods App**: A full-featured and standalone installation of CocoaPods
-  - https://github.com/CocoaPods/CocoaPods-app
-- **CocoaRestClient**: A free, native Apple OS X app for testing HTTP/REST endpoints
-  - https://github.com/mmattozzi/cocoa-rest-client
-- **Device Hub Pro**: Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side :large_orange_diamond:
-  - https://github.com/gitemre/device-hub-pro
-- **GitUp**: A simple but powerful Git OS X app
-  - https://github.com/git-up/GitUp
-- **KyttoMCP**: Control panel for MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex: every server against every client in one matrix, health checks, a tool-description safety scan and config backups :large_orange_diamond:
-  - https://github.com/heyitsjakub/KyttoMCP
-- **Oh My Android**: Control panel for the Android Emulator and real phones over adb: one-click dark mode, font scale, RTL, TalkBack, network and GPS, a Layout Inspector in dp and a built-in MCP server :large_orange_diamond:
-  - https://github.com/ateymoori/oh-my-android
-- **Pasteboard Viewer**: An app to inspect your system pasteboard :large_orange_diamond:
-  - https://github.com/sindresorhus/Pasteboard-Viewer
-- **Pods Updater**: A macOS app which helps you manage dependency releases in your Podfile
-  - https://github.com/kizitonwose/PodsUpdater
-- **Realm Browser**: A utility to open and modify realm database files
-  - https://github.com/realm/realm-browser-osx
-- **Rem**: Command-line tool to access OSX Reminders.app database
-  - https://github.com/kykim/rem
-- **Resign**: OSX utility to resign the IPA files
-  - https://github.com/LigeiaRowena/Resign
-- **Rockxy**: Native HTTP debugging proxy for intercepting HTTPS, inspecting APIs, mocking responses, and debugging WebSocket and GraphQL traffic :large_orange_diamond:
-  - https://github.com/RockxyApp/Rockxy
-- **Touch Bar Simulator**: Use the Touch Bar on any Mac :large_orange_diamond:
-  - https://github.com/sindresorhus/touch-bar-simulator
-- **Unused** - A Mac app for checking Xcode projects for unused resources
-  - https://github.com/jeffhodnett/Unused
-- **VisualJSON**: JSON pretty-viewer for OS X
-  - https://github.com/youknowone/VisualJSON
-- **Tempo**: Replace the Git CLI with a clear UI and AI assist :large_orange_diamond:
-  - https://github.com/maoyama/Tempo
-- **Tintpad**: Hotkey launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running :large_orange_diamond:
-  - https://github.com/sorkila/tintpad
-- **rfig**: Command completion menus and directory-scoped history suggestions for zsh, Bash and Fish on macOS and Linux
-  - https://github.com/tamia6/rfig
-- **Breaker**: Watches the launchd jobs, cron jobs, Folder Actions and SwiftBar plugins you set up yourself, and notifies you the moment one breaks :large_orange_diamond:
-  - [https://github.com/wata/Breaker](https://github.com/wata/Breaker)
+- [GreenMahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game with several themes and layouts.
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Multi-system video game emulator.
+- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario.
+- [Snk](https://github.com/sfsam/Snk) - Snake with a twist, written in Swift. :large_orange_diamond:
+- [stockfish-mac](https://github.com/daylen/stockfish-mac) - Chess app for the Mac built on the Stockfish engine.
 
-### Darwin Package Managers
-- **Fink**: The fink package manager for macOS (in Perl)
-  - https://github.com/fink
-- **Homebrew**: The missing package manager for macOS (in Ruby)
-  - https://github.com/Homebrew
-- **MacPorts**: Ports system for macOS (in Tcl)
-  - https://github.com/macports
+### Window Management and Input
 
-### Tools
-- **Kilobat CLI**: macOS network monitoring and diagnostics from the terminal, with a local MCP server :large_orange_diamond:
-  - https://github.com/seifip/kilobat-cli
-- **Boost**: Menu bar app for memory and disk: memory pressure with a week of history, pauses idle apps instead of quitting them, cache cleanup that skips risky folders, old project build folders, large files and an uninstaller :large_orange_diamond:
-  - https://github.com/Kernel-Hunter/boost
-- **Burn**: Burn data, audio, video, and disk images to various disc formats
-  - https://sourceforge.net/projects/burn-osx/
-- **Calibre**: Cross-platform e-book manager and converter written in Python, C, C++, Qt
-  - https://github.com/kovidgoyal/calibre
-- **Color Picker Pro**: Color Detection Tool for Designers and Developers
-  - https://github.com/oscardelben/Color-Picker-Pro
-- **Cyberduck**: Cross-platform browser for FTP/SFTP, WebDAV, and cloud storage written in Java and C#
-  - https://svn.cyberduck.io/trunk/
-- **FileZilla**: Cross-platform FTP/SFTP file management tool written in C++, wxWidgets
-  - https://sourceforge.net/projects/filezilla/
-- **Gifs**: A Mac App for finding GIFs
-  - https://github.com/orta/gifs
-- **Glim**: File viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace, built with Rust and GPUI Kit
-  - https://github.com/NeoPanic/Glim
-- **Grand Perspective**: Disk usage visualisation app for macOS
-  - https://sourceforge.net/projects/grandperspectiv/
-- **Dusty**: Menu bar disk cleaner with an allowlist-only Swift deletion engine :large_orange_diamond:
-  - https://github.com/yagcioglutoprak/dusty
-- **Cleaner**: Disk cleaner whose rules live in one public JSON file, with an uninstaller, a disk map, startup items and a 7-day quarantine that restores removed items :large_orange_diamond:
-  - https://github.com/ciro-maciel/cleaner
-- **SpaceMap**: Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs :large_orange_diamond:
-  - https://github.com/renkagod/spacemap
-- **HandBrake**: Cross-platform video/audio encoder/decoder
-  - https://github.com/HandBrake/HandBrake
-- **Hex Fiend**: A fast and clever hex editor for Mac OS X
-  - https://github.com/ridiculousfish/HexFiend
-- **ImageAlpha**: Mac GUI for pngquant, pngnq and posterizer
-  - https://github.com/pornel/ImageAlpha
-- **iro**: Color picker menu bar app for Mac OSX 10.9+
-  - https://github.com/ripeworks/iro
-- **LumaView**: Native folder-based image viewer with EXIF information and multipage PDF support :large_orange_diamond:
-  - https://github.com/ixiehao/LumaView
-- **mac2imgur**: Upload screenshots to imgur :large_orange_diamond:
-  - https://github.com/mileswd/mac2imgur
-- **MactsAsBeacon**: A tiny app to turn a Bluetooth LE-equipped Mac into an iBeacon
-  - https://github.com/timd/MactsAsBeacon
-- **Monolingual**: Remove extra language localization files to free up hard disk space :large_orange_diamond:
-  - https://github.com/IngmarStein/Monolingual
-- **MP4Flow**: Native FFmpeg front end for batch MP4 conversion, trimming, cropping, rotation, and merging; requires FFmpeg and ffprobe :large_orange_diamond:
-  - https://github.com/ixiehao/MP4Flow
-- **my41cx**: Microcode emulator for HP-41 C/CV/CX (OS X & iOS) :large_orange_diamond:
-  - https://github.com/mperovic/my41
-- **Peel**: Uninstall Mac apps with every file they leave behind, and see why each one belongs :large_orange_diamond:
-  - https://github.com/TuguiDragos/Peel
-- **PlugNPlayMac**: A script to automate tasks when connect a device to your Mac
-  - https://github.com/Piero24/PlugNPlayMac
-- **ShotMap**: Native video storyboard tool with smart frame selection, a manual timeline, and local PNG/JPG export :large_orange_diamond:
-  - https://github.com/ixiehao/ShotMap
-- **Sigil**: Cross-platform editing software for EPUB files (e-books) written in C++, Qt
-  - https://github.com/Sigil-Ebook/Sigil
-- **Tracexy**: Native, local-first network intelligence for live traffic and PCAP or PCAPNG investigation as app-aware sessions :large_orange_diamond:
-  - https://github.com/RockxyApp/Tracexy
-- **VideoMessageExporter**: OSX app to export Skype video messages
-  - https://github.com/alvarop/VideoMessageExporter
-- **VLC**: Cross-platform media player and streaming media server written in C, C++, Qt, Objective-C
-  - https://wiki.videolan.org/OSXCompile/
-- **Miro**: Miro can play any video format (much more than quicktime), download torrents, permanently save videos from YouTube, and watch video podcasts.
-  - https://github.com/pculture/mirocommunity
-- **Kap**: An open-source screen recorder built with web technology
-  - https://github.com/wulkano/kap
-- **Radiola**: Lightweight Internet radio player for macOS
-  - https://github.com/SokoloffA/radiola
-- **AppDuo**: Native macOS app cloner with separate data directories and custom names and icons :large_orange_diamond:
-  - https://github.com/tamia6/AppDuo
+- [Command Reopen](https://github.com/Feng6611/mac-command-reopen) - Restores an app's minimized or closed windows through the native Cmd+Tab switcher. :large_orange_diamond:
+- [Dockit](https://github.com/xicheng148/Dockit) - Dock any window to the edge of the screen.
+- [Keyty](https://github.com/keytyapp/Keyty) - Shows your keyboard and mouse input as an on-screen overlay for demos and livestreams. :large_orange_diamond:
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Saves window layouts per external monitor and restores them when the monitor is plugged in again. :large_orange_diamond:
+- [MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS.
+- [Plonk](https://github.com/ostapondo/Plonk) - Window manager with custom zones, workspaces, keep-awake, screenshots and agent control. :large_orange_diamond:
+- [Show Desktop](https://github.com/stanczykwyatt/show-desktop) - Hide every window with one click or shortcut, then bring them all back where they were. :large_orange_diamond:
+- [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Adds a global delay to Command-Q to stop accidental app quits.
+- [Spectacle](https://github.com/eczarny/spectacle) - Organize your windows without using a mouse. (archived)
+- [Who Stole My Focus](https://github.com/stanczykwyatt/who-stole-my-focus) - Finds out which app keeps taking focus from your work, and when. :large_orange_diamond:
+- [Windows](https://github.com/ciro-maciel/windows) - Snaps windows to halves, full screen, center or custom sizes by shortcut or by dragging to a screen edge. :large_orange_diamond:
 
-### OS X Versions, GUIs and Other Wrappers
-- **Cloudy**: mac app wrapper for overcast :large_orange_diamond:
-  - https://github.com/calebd/cloudy
-- **CoinManager**: OS X app for Coinbase
-  - https://github.com/D-32/CoinManager
-- **GoogleMusicMac**: Wrapper for Google Music that is compatible with the Mac's media keys
-  - https://github.com/JamesFator/GoogleMusicMac
-- **Soundcleod**: Standalone Mac OS X browser for SoundCloud
-  - https://github.com/salomvary/soundcleod
-- **tunnelblick**: Graphic user interface for OpenVPN
-  - https://code.google.com/p/tunnelblick/
-- **WWDC**: WWDC app for OS X :large_orange_diamond:
-  - https://github.com/insidegui/WWDC
+### Developer Tools
 
-### Productivity and Others
-- **Audacity**: Cross-platform multi-track audio editor and recorder written in C, C++
-  - https://sourceforge.net/projects/audacity/
-- **BibDesk**: Bibliographic reference management software for macOS
-  - https://sourceforge.net/projects/bibdesk/
-- **Cactus**: Static site generator for designers in Python and Django templates, with lightweight GUI app for macOS
-  - https://github.com/eudicots/Cactus
-- **Carol**: A minimal and beautiful lyrics app that stays in the menu bar of macOS, written in C#
-  - https://github.com/AnaghSharma/Carol
-- **Catch**: Broadcasting made easy :large_orange_diamond:
-  - https://github.com/mipstian/catch
-- **Clementine**: Cross-platorm music player and library organizer written in C++, Qt
-  - https://github.com/clementine-player/Clementine
-- **Cockpit**: Tactile macOS HUD and menu bar workspace dashboard for glanceable system monitoring :large_orange_diamond:
-  - https://github.com/Yvsleyen00941/Cockpit
-- **Frit**: Glaze recipe book for potters that reworks a recipe when a material changes, moves one oxide to a target and finds fired test tiles by code :large_orange_diamond:
-  - [https://github.com/theluckystrike/frit](https://github.com/theluckystrike/frit)
-- **GraphSketcher**: A fast, simple graph drawing and data plotting app for OS X and iPad from the Omni Group
-  - https://github.com/graphsketcher/GraphSketcher
-- **ItsPaint**: MS Paint for the Mac — open it, draw, close it. Written in Swift
-  - https://github.com/joshlin2201/itspaint
-- **Jekyll**: Blog-aware, static site generator in Ruby
-  - https://github.com/jekyll/jekyll
-- **Koru**: Local-first workspace for notes, documents and files with peer-to-peer device sync, written in Rust
-  - https://github.com/koruworks/mono
-- **Ledge**: Turns the MacBook notch into a status area for now playing, a timer, your next meeting, weather, notes and Keep Awake :large_orange_diamond:
-  - https://github.com/egemertbalcik/Ledge
-- **MacGesture**: Global mouse gesture for Mac OS X
-  - https://github.com/CodeFalling/MacGesture
-- **Markoff**：A light-weight Markdown (CommonMark) previewer for OS X :large_orange_diamond:
-  - https://github.com/thoughtbot/Markoff
-- **PDF Archiver**: A nice tool for tagging and archiving tasks :large_orange_diamond:
-  - https://github.com/JulianKahnert/PDF-Archiver
-- **QGIS**: Cross-platform geographic information system (GIS) written in C++, Python, Qt
-  - https://github.com/qgis/QGIS
-- **Quickwords**: Write anything in a matter of seconds. Create snippets that can substitute text, execute tedious tasks and more. ✏️
-  - https://quickwords.co
-- **Rime**: Distraction-free macOS PDF reader where everything outside the page freezes into frosted ice :large_orange_diamond:
-  - https://github.com/Yvsleyen00941/Rime
-- **Seashore**: Image editor based on parts of GIMP but built entirely in Cocoa
-  - https://sourceforge.net/projects/seashore/
-- **Simple Comic**: Comic viewer
-  - https://github.com/arauchfuss/Simple-Comic
-- **Skim**: PDFKit-based PDF reader and annotation for macOS
-  - https://sourceforge.net/projects/skim-app/
-- **SlowQuitApps**: Add a global delay to Command-Q to stop accidental app quits
-  - https://github.com/dteoh/SlowQuitApps
-- **Stash**: Personal finance application for Mac OS X
-  - http://github.com/ppearson/Stash
-- **TimeScribe**: Simple and free working time recording.
-  - https://timescribe.app
-- **ToDoOSX**: OS X app using Parse and managing to-dos
-  - https://github.com/ParsePlatform/TodoOSX
-- **Vienna**: RSS/Atom Reader
-  - https://github.com/ViennaRSS/vienna-rss
-- **Wallpapers**: A Mac app for downloading wallpapers
-  - https://github.com/orta/Wallpapers
+- [App Reviews](https://github.com/knutigro/AppReviews) - Keeps track of user reviews for your iPhone apps. :large_orange_diamond:
+- [Breaker](https://github.com/wata/Breaker) - Watches your launchd jobs, cron jobs, Folder Actions and SwiftBar plugins and notifies you when one breaks. :large_orange_diamond:
+- [Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers in Python, with a lightweight GUI app for macOS.
+- [CCMenu](https://github.com/ccmenu/ccmenu) - Monitors continuous integration servers from the menu bar.
+- [Changes](https://github.com/maoyama/Changes) - GUI Git client for macOS with AI assist. :large_orange_diamond:
+- [CocoaPods App](https://github.com/CocoaPods/CocoaPods-app) - Full-featured standalone installation of CocoaPods. (archived)
+- [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client) - Native app for testing HTTP/REST endpoints.
+- [Color Picker Pro](https://github.com/oscardelben/Color-Picker-Pro) - Color detection tool for designers and developers.
+- [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side. :large_orange_diamond:
+- [GitUp](https://github.com/git-up/GitUp) - Simple but powerful Git client for macOS.
+- [Hex Fiend](https://github.com/HexFiend/HexFiend) - Fast hex editor for macOS.
+- [iro](https://github.com/ripeworks/iro) - Color picker menu bar app.
+- [Jekyll](https://github.com/jekyll/jekyll) - Blog-aware static site generator in Ruby.
+- [MactsAsBeacon](https://github.com/timd/MactsAsBeacon) - Turns a Bluetooth LE-equipped Mac into an iBeacon.
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - Control panel for the Android Emulator and real phones over adb, with a built-in MCP server. :large_orange_diamond:
+- [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect your system pasteboard. :large_orange_diamond:
+- [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - Manage dependency releases in your Podfile.
+- [Realm Browser](https://github.com/realm/realm-browser-osx) - Open and modify Realm database files. (archived)
+- [Resign](https://github.com/LigeiaRowena/Resign) - Resign IPA files.
+- [rfig](https://github.com/tamia6/rfig) - Command completion menus and directory-scoped history suggestions for zsh, Bash and Fish.
+- [Rockxy](https://github.com/RockxyApp/Rockxy) - HTTP debugging proxy for intercepting HTTPS, inspecting APIs, mocking responses and debugging WebSocket traffic. :large_orange_diamond:
+- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. :large_orange_diamond: (archived)
+- [Tracexy](https://github.com/RockxyApp/Tracexy) - Local-first network analysis of live traffic and PCAP captures as app-aware sessions. :large_orange_diamond:
+- [Unused](https://github.com/jeffhodnett/Unused) - Checks Xcode projects for unused resources.
+- [VisualJSON](https://github.com/youknowone/VisualJSON) - JSON pretty-viewer for macOS.
+- [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS. :large_orange_diamond:
 
-### Menubar Apps
-- **Abendrot**: Screen warmer that cuts nighttime blue light on every display :large_orange_diamond:
-  - https://github.com/matthewrball/abendrot
-- **Headroom**: Claude Code usage meter — live 5h session and 7d week percentages in the menubar, color-coded as a limit approaches :large_orange_diamond:
-  - [https://github.com/patwalls/headroom](https://github.com/patwalls/headroom)
-- **MacMistral**: Your Conversational AI Companion Right in Your Mac's Menubar
-  - [https://github.com/peterdsp/macmistral](https://github.com/peterdsp/macmistral)
-- **Americano**: Simple caffeinate wrapper stay at menu bar
-  - [https://github.com/LZhenHong/Americano](https://github.com/LZhenHong/Americano)
-- **Clippy**: Card-based clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter :large_orange_diamond:
-  - [https://github.com/yarasaa/Clippy](https://github.com/yarasaa/Clippy)
-- **Yap**: On-device voice dictation. Press a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
-  - [https://github.com/FrigadeHQ/yap](https://github.com/FrigadeHQ/yap)
-- **Pulse**: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats
-  - [https://github.com/emgeorrk/pulse](https://github.com/emgeorrk/pulse)
-- **StandLock**: Stand-up break enforcer that puts a full-screen overlay on every display, with three discipline levels from a skippable prompt to full input blocking :large_orange_diamond:
-  - [https://github.com/yagizdo/StandLock](https://github.com/yagizdo/StandLock)
-- **Lunavect**: Claude Code and Codex companion that shows which session is working, waiting for you, or done, plus weekly and five-hour usage limits with reset times :large_orange_diamond:
-  - [https://github.com/lovach/Lunavect](https://github.com/lovach/Lunavect)
-- **AIQuotaBar**: Live Claude, ChatGPT, Cursor, and GitHub Copilot usage limits in the menubar, with reset countdowns, pace warnings, and alerts before a limit is hit
-  - [https://github.com/yagcioglutoprak/AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar)
-- **Shotnix**: Screenshots, screen recordings, and a video editor: scrolling capture, annotation, text recognition, and recordings that open with zooms on clicks, a redrawn cursor, and on-device captions :large_orange_diamond:
-  - [https://github.com/OMARVII/Shotnix](https://github.com/OMARVII/Shotnix)
-- **Holeberry**: Native macOS menu bar app to monitor and control your Pi-hole instances: live blocking status and query stats, timed or indefinite disable with a countdown pill, one-click unblock of the current browser tab's domain, gravity updates, and recently blocked domains :large_orange_diamond:
-  - [https://github.com/pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)
-- **Screenshots**: Screenshots and screen recording: area, window and scrolling capture, on-device text recognition, MP4 and GIF recording, annotation and pin-to-screen :large_orange_diamond:
-  - [https://github.com/ciro-maciel/screenshots](https://github.com/ciro-maciel/screenshots)
-- **Windows**: Window manager that snaps windows to halves, full screen, center or custom sizes by shortcut or by dragging them to a screen edge :large_orange_diamond:
-  - [https://github.com/ciro-maciel/windows](https://github.com/ciro-maciel/windows)
-- **Speech to Text**: Dictation: press a shortcut, speak, and the text is pasted at the cursor, transcribed on the Mac with whisper.cpp. Built with Tauri and Rust
-  - [https://github.com/ciro-maciel/speech-to-text](https://github.com/ciro-maciel/speech-to-text)
-- **Text to Speech**: Reads the text selected in any app aloud with one shortcut, with a local Piper voice or an online voice, in a small floating player. Built with Tauri and Rust
-  - [https://github.com/ciro-maciel/text-to-speech](https://github.com/ciro-maciel/text-to-speech)
-- **Assistant**: Voice assistant for Claude Code: say its name, ask out loud, and it answers by voice while it works in your repositories, with speech transcribed by a local Whisper
-  - [https://github.com/ciro-maciel/voice-assistant](https://github.com/ciro-maciel/voice-assistant)
-- **Swivel**: While dragging files, tap Shift, Command or Control to open a radial wheel at the pointer and convert images, video, audio, documents and archives, or resize, compress, OCR and strip metadata, all offline :large_orange_diamond:
-  - [https://github.com/jonathanlotan/Swivel](https://github.com/jonathanlotan/Swivel)
-- **Cybokron Dock Groups**: Groups apps and websites and opens, hides, or closes a whole group from a popup over the Dock, with optional per-group Dock icons :large_orange_diamond:
-  - [https://github.com/ercanatay/cybokron-dock-groups](https://github.com/ercanatay/cybokron-dock-groups)
-- **LayoutKeeper**: Saves window layouts per external monitor and puts every window back, on the same Space, when the monitor is plugged in again :large_orange_diamond:
-  - [https://github.com/tumingke0/LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)
-- **MRRDock**: MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad added up in the menubar, with API keys kept in the Keychain :large_orange_diamond:
-  - https://github.com/simonsruggi/MRRDock
-- **RamDock**: RAM and CPU usage in the menubar, colored by load, with a process list where any process can be quit or force quit :large_orange_diamond:
-  - https://github.com/simonsruggi/RamDock
-- **StockDock**: Stocks, ETFs, indices, crypto and portfolio P&L in the menubar, with real-time prices, pre-market and after-hours quotes, price alerts and a full desktop window :large_orange_diamond:
-  - https://github.com/simonsruggi/StockDock
-- **Castbar**: Control Chromecast, Google Home and Nest speakers from the menu bar, with playback controls and per-device volume
-  - [https://github.com/itssarthak/castbar](https://github.com/itssarthak/castbar)
-- **Show Desktop**: Hide every window with one click or ⌃⇧D, then bring them all back right where they were :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/show-desktop](https://github.com/stanczykwyatt/show-desktop)
-- **Copy 2FA**: Copy your newest 2FA code from Mail or Messages with one shortcut, plus a Touch ID authenticator :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/copy-2fa](https://github.com/stanczykwyatt/copy-2fa)
-- **Who Stole My Focus**: Find out which app keeps jumping in front of your work, even mid-typing, with what it took focus from and when :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/who-stole-my-focus](https://github.com/stanczykwyatt/who-stole-my-focus)
-- **AI Footprint**: See what AI coding tools leave on your Mac: disk, background processes, MCP servers and login items, with a receipt for every update :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/ai-footprint](https://github.com/stanczykwyatt/ai-footprint)
-- **Safelight**: Schedules the color filter, brightness and Light/Dark appearance, fading the screen from white to deep red at night :large_orange_diamond:
-  - [https://github.com/mopfaff/Safelight](https://github.com/mopfaff/Safelight)
-- **Annotator**: Draw arrows, boxes, highlights, spotlight, zoom and blur over any app during demos, code reviews and lessons; marks stay editable :large_orange_diamond:
-  - [https://github.com/dorlugasigal/annotator](https://github.com/dorlugasigal/annotator)
-- **TimeMachineEjector**: Ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due :large_orange_diamond:
-  - [https://github.com/wata/TimeMachineEjector](https://github.com/wata/TimeMachineEjector)
-- **AudioAnchor**: Keeps your sound output on the device you choose, like your AirPods, and switches it back whenever macOS moves it somewhere else :large_orange_diamond:
-  - [https://github.com/wata/AudioAnchor](https://github.com/wata/AudioAnchor)
-- **Memo Export**: Export your Voice Memos transcripts as Markdown with the audio, timestamped and Obsidian-friendly :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/memo-export](https://github.com/stanczykwyatt/memo-export)
-- **Podcast Export**: Export your Apple Podcasts subscriptions as OPML for any podcast app, plus your listening history as notes and a spreadsheet :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/podcast-export](https://github.com/stanczykwyatt/podcast-export)
-- **Reading List Export**: Export your Safari Reading List as Markdown, a bookmarks file for read-later apps and an Instapaper-style CSV :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/reading-list-export](https://github.com/stanczykwyatt/reading-list-export)
-- **Unblock Eject**: See which apps are keeping a disk from ejecting, quit them politely and eject :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/unblock-eject](https://github.com/stanczykwyatt/unblock-eject)
-- **Next Departures**: Your bus and train stops' next departures, live, in the menu bar :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/next-departures](https://github.com/stanczykwyatt/next-departures)
-- **Right Folder**: The folders open in Finder, recent folders and favorites beside every Open and Save dialog, one click away :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/right-folder](https://github.com/stanczykwyatt/right-folder)
-- **Tonecap**: Design your keyboard's sound, synthesized with no recordings, and hear it as you type :large_orange_diamond:
-  - [https://github.com/stanczykwyatt/tonecap](https://github.com/stanczykwyatt/tonecap)
-- **CallReady**: Shows your next calendar call, puts your preferred microphone back when a Bluetooth headset takes over, and mutes the microphone with one shortcut :large_orange_diamond:
-  - [https://github.com/theluckystrike/barframe-apps/tree/main/apps/CallReady](https://github.com/theluckystrike/barframe-apps/tree/main/apps/CallReady)
+### Package Managers
+
+- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - GUI for managing Homebrew formulae.
+- [Fink](https://github.com/fink) - Package manager for macOS, written in Perl.
+- [Homebrew](https://github.com/Homebrew) - The missing package manager for macOS, written in Ruby.
+- [MacPorts](https://github.com/macports) - Ports system for macOS, written in Tcl.
+
+### System Utilities
+
+- [Abendrot](https://github.com/matthewrball/abendrot) - Screen warmer that cuts nighttime blue light on every display. :large_orange_diamond:
+- [Americano](https://github.com/LZhenHong/Americano) - Simple caffeinate wrapper that lives in the menu bar.
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell) - Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre. :large_orange_diamond:
+- [AppDuo](https://github.com/tamia6/AppDuo) - App cloner with separate data directories and custom names and icons. :large_orange_diamond:
+- [AudioAnchor](https://github.com/wata/AudioAnchor) - Keeps sound output on the device you choose and switches it back when macOS moves it. :large_orange_diamond:
+- [Awake](https://github.com/xiaozi/awake-app) - Prevents your Mac from sleeping, inspired by Caffeine.
+- [Boost](https://github.com/Kernel-Hunter/boost) - Memory and disk menu bar app with memory pressure history, idle app pausing, cache cleanup and an uninstaller. :large_orange_diamond:
+- [Burn](https://sourceforge.net/projects/burn-osx/) - Burn data, audio, video and disk images to disc.
+- [Cleaner](https://github.com/ciro-maciel/cleaner) - Disk cleaner with public JSON rules, an uninstaller, a disk map and a 7-day quarantine. :large_orange_diamond:
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - HUD and menu bar dashboard for glanceable system monitoring. :large_orange_diamond:
+- [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cross-platform browser for FTP, SFTP, WebDAV and cloud storage, written in Java and C#.
+- [dshb](https://github.com/beltex/dshb) - Terminal system monitor written in Swift. :large_orange_diamond:
+- [Dusty](https://github.com/yagcioglutoprak/dusty) - Menu bar disk cleaner with an allowlist-only deletion engine. :large_orange_diamond:
+- [Eul](https://github.com/gao-sun/eul) - System monitoring app for macOS.
+- [Featherbar](https://github.com/nim444/featherbar) - Featherweight menu bar system monitor showing CPU, RAM, power and temperature.
+- [FileZilla](https://filezilla-project.org/) - Cross-platform FTP and SFTP client written in C++ and wxWidgets.
+- [GrandPerspective](https://sourceforge.net/projects/grandperspectiv/) - Disk usage visualisation for macOS.
+- [IconCraft](https://github.com/gshipman223/IconCraft) - Give any Mac app a new name and icon in Finder, the Dock and Launchpad without modifying the app.
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Network monitoring and diagnostics from the terminal, with a local MCP server. :large_orange_diamond:
+- [Lockpaw](https://github.com/sorkila/lockpaw) - Menu bar screen guard that locks and unlocks with a hotkey. :large_orange_diamond:
+- [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk and network monitors in the menu bar.
+- [Monolingual](https://github.com/IngmarStein/Monolingual) - Removes unneeded language localization files to free up disk space. :large_orange_diamond:
+- [Peel](https://github.com/TuguiDragos/Peel) - Uninstalls Mac apps along with every file they leave behind. :large_orange_diamond:
+- [PlugNPlayMac](https://github.com/Piero24/PlugNPlayMac) - Script that automates tasks when a device is connected to your Mac.
+- [Pulse](https://github.com/emgeorrk/pulse) - Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power and battery stats.
+- [RamDock](https://github.com/simonsruggi/RamDock) - RAM and CPU usage in the menu bar, with a process list for quitting or force quitting processes. :large_orange_diamond:
+- [Safelight](https://github.com/mopfaff/Safelight) - Schedules the color filter, brightness and Light/Dark appearance, fading the screen to red at night. :large_orange_diamond:
+- [Shady](https://github.com/mattgemmell/Shady) - Menu bar app to dim your Mac's screen.
+- [Shieldxy](https://github.com/RockxyApp/Shieldxy) - Auditable application firewall and connection monitor. :large_orange_diamond:
+- [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a zoomable treemap while the scan runs. :large_orange_diamond:
+- [Swivel](https://github.com/jonathanlotan/Swivel) - Convert, resize, compress and OCR files from a radial wheel while dragging them, all offline. :large_orange_diamond:
+- [tag](https://github.com/jdberry/tag) - Command line tool to manipulate and query Finder tags on files.
+- [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - Ejects your Time Machine disk after a backup and mounts it again when the next one is due. :large_orange_diamond:
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Graphical user interface for OpenVPN.
+- [Unblock Eject](https://github.com/stanczykwyatt/unblock-eject) - Shows which apps are keeping a disk from ejecting, quits them and ejects. :large_orange_diamond:
+
+### Productivity
+
+- [Annotator](https://github.com/dorlugasigal/annotator) - Draw arrows, boxes, highlights, spotlight, zoom and blur over any app during demos and lessons. :large_orange_diamond:
+- [BibDesk](https://sourceforge.net/projects/bibdesk/) - Bibliographic reference manager for macOS.
+- [Calibre](https://github.com/kovidgoyal/calibre) - Cross-platform e-book manager and converter written in Python and C++.
+- [Clippy](https://github.com/yarasaa/Clippy) - Card-based clipboard manager with content-aware previews, AI transformations and a screenshot editor. :large_orange_diamond:
+- [CoinManager](https://github.com/D-32/CoinManager) - Coinbase client for macOS.
+- [Copy 2FA](https://github.com/stanczykwyatt/copy-2fa) - Copies your newest 2FA code from Mail or Messages with one shortcut, plus a Touch ID authenticator. :large_orange_diamond:
+- [Cybokron Dock Groups](https://github.com/ercanatay/cybokron-dock-groups) - Groups apps and websites and opens, hides or closes a whole group from a popup over the Dock. :large_orange_diamond:
+- [Frit](https://github.com/theluckystrike/frit) - Glaze recipe book for potters that reworks recipes when a material changes and tracks fired test tiles. :large_orange_diamond:
+- [Glim](https://github.com/glimapp/glim) - File viewer for Markdown, PDFs, images, JSON, CSV and source code, built with Rust.
+- [GraphSketcher](https://github.com/graphsketcher/GraphSketcher) - Graph drawing and data plotting app from the Omni Group.
+- [Koru](https://github.com/koruworks/mono) - Local-first workspace for notes, documents and files with peer-to-peer sync, written in Rust.
+- [Ledge](https://github.com/egemertbalcik/Ledge) - Turns the MacBook notch into a status area for now playing, a timer, your next meeting, weather and notes. :large_orange_diamond:
+- [LibreOffice](https://github.com/LibreOffice/core) - Cross-platform office suite written in C++, Java and Python.
+- [Memo Export](https://github.com/stanczykwyatt/memo-export) - Exports your Voice Memos transcripts as Markdown with the audio, timestamped and Obsidian-friendly. :large_orange_diamond:
+- [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Tag and archive PDF documents. :large_orange_diamond:
+- [Podcast Export](https://github.com/stanczykwyatt/podcast-export) - Exports your Apple Podcasts subscriptions as OPML and your listening history as notes and a spreadsheet. :large_orange_diamond:
+- [QGIS](https://github.com/qgis/QGIS) - Cross-platform geographic information system written in C++, Python and Qt.
+- [Quicksilver](https://github.com/quicksilver/Quicksilver) - Keyboard-driven launcher and productivity tool for macOS.
+- [Quickwords](https://github.com/quickwords/quickwords) - Text snippets that expand as you type and run tedious tasks.
+- [Reading List Export](https://github.com/stanczykwyatt/reading-list-export) - Exports your Safari Reading List as Markdown, a bookmarks file and an Instapaper-style CSV. :large_orange_diamond:
+- [Rem](https://github.com/kykim/rem) - Command-line tool to access the Reminders database.
+- [Right Folder](https://github.com/stanczykwyatt/right-folder) - Shows open Finder folders, recent folders and favorites beside every Open and Save dialog. :large_orange_diamond:
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free PDF reader that freezes everything outside the page into frosted ice. :large_orange_diamond:
+- [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Blocks distracting websites for a set period of time.
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Cross-platform EPUB e-book editor written in C++ and Qt.
+- [Skim](https://sourceforge.net/projects/skim-app/) - PDFKit-based PDF reader and annotator for macOS.
+- [Speech to Text](https://github.com/ciro-maciel/speech-to-text) - Press a shortcut, speak, and the text is pasted at the cursor, transcribed locally with whisper.cpp.
+- [StandLock](https://github.com/yagizdo/StandLock) - Stand-up break enforcer with a full-screen overlay and three discipline levels. :large_orange_diamond:
+- [Stash](https://github.com/ppearson/Stash) - Personal finance application for macOS.
+- [Text to Speech](https://github.com/ciro-maciel/text-to-speech) - Reads selected text aloud with a local Piper voice or an online voice, in a small floating player.
+- [TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - Offline working time tracker for macOS and Windows.
+- [Vienna](https://github.com/ViennaRSS/vienna-rss) - RSS and Atom feed reader.
+- [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation: press a hotkey, talk, and the text is pasted where you were typing.
+
+### Menu Bar Apps
+
+- [AnyBar](https://github.com/tonsky/AnyBar) - Menu bar status indicator you can control from scripts.
+- [app-menu](https://github.com/barseghyanartur/app-menu) - The missing Applications menu for macOS.
+- [Holeberry](https://github.com/pedrovieira/Holeberry) - Monitor and control your Pi-hole instances from the menu bar. :large_orange_diamond:
+- [MRRDock](https://github.com/simonsruggi/MRRDock) - MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar and Gumroad added up in the menu bar. :large_orange_diamond:
+- [Next Departures](https://github.com/stanczykwyatt/next-departures) - Live next departures for your bus and train stops in the menu bar. :large_orange_diamond:
+- [StockDock](https://github.com/simonsruggi/StockDock) - Stocks, ETFs, crypto and portfolio P&L in the menu bar, with real-time prices and alerts. :large_orange_diamond:
+
+### Screensavers and Wallpapers
+
+- [Clock.saver](https://github.com/soffes/Clock.saver) - Simple clock screensaver. :large_orange_diamond:
+- [Octosaver](https://github.com/DK1DA/Octosaver) - Screensaver showing GitHub Octocats.
+- [Wallpapers](https://github.com/orta/Wallpapers) - Mac app for downloading wallpapers.
 
 ## Apple Sample Projects
-[Apple Sample Projects](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
+
+[Apple Sample Projects](https://developer.apple.com/documentation/samplecode)
 
 ## Apple Open Source
-[Apple Open Source](http://www.opensource.apple.com/)
+
+[Apple Open Source](https://opensource.apple.com/)
+
+## See also
+
+- [mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) - Companion list of open-source macOS frameworks.
