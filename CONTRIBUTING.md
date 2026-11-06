@@ -29,18 +29,17 @@ Each app gets one line. If you have several apps, put them all in one pull reque
 Copy this format exactly:
 
 ```markdown
-- [AppName](https://github.com/owner/repo) - One-line description. :large_orange_diamond:
+- [AppName](https://github.com/owner/repo) - One-line description.
 ```
 
 Example:
 
 ```markdown
-- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight plain-text editor for macOS. :large_orange_diamond:
+- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight plain-text editor for macOS.
 ```
 
 - The link points to the source repository, not to a website or download page.
-- The `:large_orange_diamond:` marker is optional. Add it only if the app is primarily written in Swift.
-- Archived projects that are kept on the list end with ` (archived)` after the description and marker.
+- Archived projects that are kept on the list end with ` (archived)` after the description.
 
 ## Description rules
 
