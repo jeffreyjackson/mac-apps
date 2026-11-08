@@ -197,6 +197,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a zoomable treemap while the scan runs.
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Convert, resize, compress and OCR files from a radial wheel while dragging them, all offline.
 - [tag](https://github.com/jdberry/tag) - Command line tool to manipulate and query Finder tags on files.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker for macOS in the empty corner beside the Dock: one listing at a time, in its logo's colour.
 - [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - Ejects your Time Machine disk after a backup and mounts it again when the next one is due.
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Graphical user interface for OpenVPN.
 - [Unblock Eject](https://github.com/stanczykwyatt/unblock-eject) - Shows which apps are keeping a disk from ejecting, quits them and ejects.
@@ -208,6 +209,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Calibre](https://github.com/kovidgoyal/calibre) - Cross-platform e-book manager and converter written in Python and C++.
 - [Clippy](https://github.com/yarasaa/Clippy) - Card-based clipboard manager with content-aware previews, AI transformations and a screenshot editor.
 - [CoinManager](https://github.com/D-32/CoinManager) - Coinbase client for macOS.
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS workspace dashboard and daily heads-up display with a 24h dial and triage signals.
 - [Copy 2FA](https://github.com/stanczykwyatt/copy-2fa) - Copies your newest 2FA code from Mail or Messages with one shortcut, plus a Touch ID authenticator.
 - [Cybokron Dock Groups](https://github.com/ercanatay/cybokron-dock-groups) - Groups apps and websites and opens, hides or closes a whole group from a popup over the Dock.
 - [Frit](https://github.com/theluckystrike/frit) - Glaze recipe book for potters that reworks recipes when a material changes and tracks fired test tiles.
