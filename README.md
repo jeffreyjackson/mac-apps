@@ -142,6 +142,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [iro](https://github.com/ripeworks/iro) - Color picker menu bar app.
 - [Jekyll](https://github.com/jekyll/jekyll) - Blog-aware static site generator in Ruby.
 - [MactsAsBeacon](https://github.com/timd/MactsAsBeacon) - Turns a Bluetooth LE-equipped Mac into an iBeacon.
+- [Muxflow](https://github.com/gal064/muxflow) - Remote-first tmux IDE for running coding agents on local and SSH hosts.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - Control panel for the Android Emulator and real phones over adb, with a built-in MCP server.
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect your system pasteboard.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - Manage dependency releases in your Podfile.
