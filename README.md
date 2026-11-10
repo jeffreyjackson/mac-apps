@@ -203,6 +203,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Unblock Eject](https://github.com/stanczykwyatt/unblock-eject) - Shows which apps are keeping a disk from ejecting, quits them and ejects.
 
 ### Productivity
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing in the corner beside the Dock on macOS.
 
 - [Annotator](https://github.com/dorlugasigal/annotator) - Draw arrows, boxes, highlights, spotlight, zoom and blur over any app during demos and lessons.
 - [BibDesk](https://sourceforge.net/projects/bibdesk/) - Bibliographic reference manager for macOS.
