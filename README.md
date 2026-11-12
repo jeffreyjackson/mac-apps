@@ -246,6 +246,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [AnyBar](https://github.com/tonsky/AnyBar) - Menu bar status indicator you can control from scripts.
 - [app-menu](https://github.com/barseghyanartur/app-menu) - The missing Applications menu for macOS.
 - [Holeberry](https://github.com/pedrovieira/Holeberry) - Monitor and control your Pi-hole instances from the menu bar.
+- [Menew](https://github.com/Quost/menew) - Clipboard history, command palette, window layouts, screenshots, system monitor and meeting minutes in one menu bar app, with on-device AI.
 - [MRRDock](https://github.com/simonsruggi/MRRDock) - MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar and Gumroad added up in the menu bar.
 - [Next Departures](https://github.com/stanczykwyatt/next-departures) - Live next departures for your bus and train stops in the menu bar.
 - [StockDock](https://github.com/simonsruggi/StockDock) - Stocks, ETFs, crypto and portfolio P&L in the menu bar, with real-time prices and alerts.
