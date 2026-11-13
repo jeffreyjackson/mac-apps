@@ -173,6 +173,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Awake](https://github.com/xiaozi/awake-app) - Prevents your Mac from sleeping, inspired by Caffeine.
 - [Boost](https://github.com/Kernel-Hunter/boost) - Memory and disk menu bar app with memory pressure history, idle app pausing, cache cleanup and an uninstaller.
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Burn data, audio, video and disk images to disc.
+- [ClamDown](https://github.com/delef/ClamDown) - Keeps a MacBook awake and cool with the lid closed, so coding agents and long tasks keep running.
 - [Cleaner](https://github.com/ciro-maciel/cleaner) - Disk cleaner with public JSON rules, an uninstaller, a disk map and a 7-day quarantine.
 - [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - HUD and menu bar dashboard for glanceable system monitoring.
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cross-platform browser for FTP, SFTP, WebDAV and cloud storage, written in Java and C#.
