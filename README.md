@@ -176,6 +176,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [ClamDown](https://github.com/delef/ClamDown) - Keeps a MacBook awake and cool with the lid closed, so coding agents and long tasks keep running.
 - [Cleaner](https://github.com/ciro-maciel/cleaner) - Disk cleaner with public JSON rules, an uninstaller, a disk map and a 7-day quarantine.
 - [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - HUD and menu bar dashboard for glanceable system monitoring.
+- [Cyberdog](https://github.com/pickywawa/cyberdog) - SSH/SFTP client with a terminal, server health dashboard and FTP, S3 and WebDAV support, built with Electron.
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cross-platform browser for FTP, SFTP, WebDAV and cloud storage, written in Java and C#.
 - [dshb](https://github.com/beltex/dshb) - Terminal system monitor written in Swift.
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - Menu bar disk cleaner with an allowlist-only deletion engine.
