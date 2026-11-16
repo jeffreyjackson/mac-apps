@@ -150,6 +150,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Resign](https://github.com/LigeiaRowena/Resign) - Resign IPA files.
 - [rfig](https://github.com/tamia6/rfig) - Command completion menus and directory-scoped history suggestions for zsh, Bash and Fish.
 - [Rockxy](https://github.com/RockxyApp/Rockxy) - HTTP debugging proxy for intercepting HTTPS, inspecting APIs, mocking responses and debugging WebSocket traffic.
+- [SecretBar](https://github.com/secretbar/secretbar) - Keeps API keys in the Secure Enclave and injects them into commands behind Touch ID.
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. (archived)
 - [Tracexy](https://github.com/RockxyApp/Tracexy) - Local-first network analysis of live traffic and PCAP captures as app-aware sessions.
 - [Unused](https://github.com/jeffhodnett/Unused) - Checks Xcode projects for unused resources.
