@@ -154,6 +154,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Tracexy](https://github.com/RockxyApp/Tracexy) - Local-first network analysis of live traffic and PCAP captures as app-aware sessions.
 - [Unused](https://github.com/jeffhodnett/Unused) - Checks Xcode projects for unused resources.
 - [VisualJSON](https://github.com/youknowone/VisualJSON) - JSON pretty-viewer for macOS.
+- [vsux](https://github.com/shadowDragons/vsux) - Native macOS workspace with split terminals, files, Git, and Markdown preview.
 - [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS.
 
 ### Package Managers
