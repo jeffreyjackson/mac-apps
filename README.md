@@ -224,6 +224,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Ledge](https://github.com/egemertbalcik/Ledge) - Turns the MacBook notch into a status area for now playing, a timer, your next meeting, weather and notes.
 - [LibreOffice](https://github.com/LibreOffice/core) - Cross-platform office suite written in C++, Java and Python.
 - [Memo Export](https://github.com/stanczykwyatt/memo-export) - Exports your Voice Memos transcripts as Markdown with the audio, timestamped and Obsidian-friendly.
+- [neatly](https://github.com/alpozaydin/neatly) - AI file renamer that names downloads, screenshots and photos by their content, on-device.
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - Tag and archive PDF documents.
 - [Podcast Export](https://github.com/stanczykwyatt/podcast-export) - Exports your Apple Podcasts subscriptions as OPML and your listening history as notes and a spreadsheet.
 - [QGIS](https://github.com/qgis/QGIS) - Cross-platform geographic information system written in C++, Python and Qt.
