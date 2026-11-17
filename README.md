@@ -53,6 +53,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Goofy](https://github.com/danielbuechele/goofy) - Facebook Messenger client for macOS.
 - [LimeChat](https://github.com/psychs/limechat) - IRC client for macOS.
 - [M](https://github.com/Mynigma/M) - Email client with device-to-device encryption for messages between M users.
+- [Spool](https://github.com/wes/spool) - Keyboard-driven IMAP email client written in Rust on gpui.
 - [WhatsMac](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web.
 
 ### Text Editors and IDEs
