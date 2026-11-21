@@ -244,6 +244,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Stash](https://github.com/ppearson/Stash) - Personal finance application for macOS.
 - [Text to Speech](https://github.com/ciro-maciel/text-to-speech) - Reads selected text aloud with a local Piper voice or an online voice, in a small floating player.
 - [TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - Offline working time tracker for macOS and Windows.
+- [TypeAloud](https://github.com/hellotaotao/typealoud) - Hold-to-talk dictation into any app, transcribed on-device with Qwen3-ASR, including mixed Chinese and English.
 - [Vienna](https://github.com/ViennaRSS/vienna-rss) - RSS and Atom feed reader.
 - [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation: press a hotkey, talk, and the text is pasted where you were typing.
 
