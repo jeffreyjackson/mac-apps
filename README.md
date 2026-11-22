@@ -191,6 +191,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Network monitoring and diagnostics from the terminal, with a local MCP server.
 - [Lockpaw](https://github.com/sorkila/lockpaw) - Menu bar screen guard that locks and unlocks with a hotkey.
+- [MacSweep](https://github.com/nihal4/macsweep) - Disk cleaner and app uninstaller that only deletes inside a fixed allowlist of cache folders.
 - [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk and network monitors in the menu bar.
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Removes unneeded language localization files to free up disk space.
 - [Peel](https://github.com/TuguiDragos/Peel) - Uninstalls Mac apps along with every file they leave behind.
