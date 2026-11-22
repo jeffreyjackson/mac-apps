@@ -124,6 +124,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Show Desktop](https://github.com/stanczykwyatt/show-desktop) - Hide every window with one click or shortcut, then bring them all back where they were.
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Adds a global delay to Command-Q to stop accidental app quits.
 - [Spectacle](https://github.com/eczarny/spectacle) - Organize your windows without using a mouse. (archived)
+- [TripleClick](https://github.com/wilu222/tripleclick) - Turns a three-finger trackpad click into a middle click.
 - [Who Stole My Focus](https://github.com/stanczykwyatt/who-stole-my-focus) - Finds out which app keeps taking focus from your work, and when.
 - [Windows](https://github.com/ciro-maciel/windows) - Snaps windows to halves, full screen, center or custom sizes by shortcut or by dragging to a screen edge.
 
