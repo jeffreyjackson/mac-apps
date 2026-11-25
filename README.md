@@ -86,6 +86,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Castbar](https://github.com/itssarthak/castbar) - Control Chromecast, Google Home and Nest speakers from the menu bar.
 - [Catch](https://github.com/mipstian/catch) - Menu bar app that downloads torrents from RSS feeds (broadcatching).
 - [Clementine](https://github.com/clementine-player/Clementine) - Cross-platform music player and library organizer written in C++ and Qt.
+- [Comet Editor](https://github.com/boracomet/Comet-Editor) - Native SwiftUI toolkit for converting and editing images, video and PDFs.
 - [Gifs](https://github.com/orta/gifs) - Mac app for finding GIFs. (archived)
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Cross-platform video transcoder.
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. (archived)
