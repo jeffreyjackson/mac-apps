@@ -176,6 +176,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [AudioAnchor](https://github.com/wata/AudioAnchor) - Keeps sound output on the device you choose and switches it back when macOS moves it.
 - [Awake](https://github.com/xiaozi/awake-app) - Prevents your Mac from sleeping, inspired by Caffeine.
 - [Boost](https://github.com/Kernel-Hunter/boost) - Memory and disk menu bar app with memory pressure history, idle app pausing, cache cleanup and an uninstaller.
+- [Breathing Room](https://github.com/bucabay/breathing-room-app) - Open-source macOS storage and maintenance app with reviewable cleanup plans.
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Burn data, audio, video and disk images to disc.
 - [ClamDown](https://github.com/delef/ClamDown) - Keeps a MacBook awake and cool with the lid closed, so coding agents and long tasks keep running.
 - [Cleaner](https://github.com/ciro-maciel/cleaner) - Disk cleaner with public JSON rules, an uninstaller, a disk map and a 7-day quarantine.
