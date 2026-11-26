@@ -94,6 +94,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [LumaView](https://github.com/ixiehao/LumaView) - Folder-based image viewer with EXIF information and multipage PDF support.
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload screenshots and images to Imgur.
 - [MP4Flow](https://github.com/ixiehao/MP4Flow) - FFmpeg front end for batch MP4 conversion, trimming, cropping, rotation and merging; needs FFmpeg installed.
+- [OhMyShot](https://github.com/MMFoundation/OhMyShot) - Menu bar screenshot and screen recording tool with annotation and on-device OCR.
 - [Radiola](https://github.com/SokoloffA/radiola) - Lightweight Internet radio player for macOS.
 - [Screenshots](https://github.com/ciro-maciel/screenshots) - Area, window and scrolling capture, text recognition, MP4 and GIF recording and annotation.
 - [Seashore](https://github.com/robaho/seashore) - Image editor based on parts of GIMP, built entirely in Cocoa.
