@@ -85,6 +85,7 @@ Entries marked `(archived)` are read-only upstream but still worth knowing about
 - [Carol](https://github.com/AnaghSharma/Carol) - Minimal lyrics app that lives in the menu bar, built with SwiftUI.
 - [Castbar](https://github.com/itssarthak/castbar) - Control Chromecast, Google Home and Nest speakers from the menu bar.
 - [Catch](https://github.com/mipstian/catch) - Menu bar app that downloads torrents from RSS feeds (broadcatching).
+- [CineNotch](https://github.com/NikOneZ1/cinenotch) - Docks Safari and Chrome Picture in Picture into the MacBook notch so the video isn't over your work.
 - [Clementine](https://github.com/clementine-player/Clementine) - Cross-platform music player and library organizer written in C++ and Qt.
 - [Comet Editor](https://github.com/boracomet/Comet-Editor) - Native SwiftUI toolkit for converting and editing images, video and PDFs.
 - [Gifs](https://github.com/orta/gifs) - Mac app for finding GIFs. (archived)
